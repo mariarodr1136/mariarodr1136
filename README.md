@@ -1,6 +1,6 @@
 # Hi, I'm Maria Rodriguez! 👋
 
-Welcome to my GitHub profile! I'm currently a student at **Florida International University**, pursuing a degree in **Computer Science** and working toward a **Certificate in Cybersecurity Intelligence & Information Policy**. I have a passion for technology and enjoy solving problems using code.
+Welcome to my GitHub profile! I’m a Cuban from Miami, Florida, currently studying **Computer Science** at **Florida International University** and pursuing a **Certificate in Cybersecurity Intelligence & Information Policy**. I have a passion for technology and enjoy solving problems using code.
 
 ## About Me
 
