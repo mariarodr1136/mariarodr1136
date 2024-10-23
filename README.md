@@ -26,5 +26,3 @@ Welcome to my GitHub profile! I'm currently a student at **Florida International
 ## Connect with Me
 
 - 📧 [Email me](mailto:mrodr.contact@gmail.com)
-
-Thanks for visiting my profile! 😊
