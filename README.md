@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm currently a student at **Florida International
 
 ## About Me
 
-- 🎓 I am building a strong foundation in computer science, with a focus on software development, algorithms, and cybersecurity.
-- 🛡️ My interest in **cybersecurity** drives me to explore topics like digital forensics, information security, and data protection.
-- 💡 I enjoy learning about new technologies, enhancing my coding skills, and working on projects that challenge my creativity and problem-solving abilities.
+- 🎓 I am building a strong computer science foundation, focusing on software development, algorithms, and cybersecurity.
+- 🛡️ My interest in **cybersecurity** drives me to explore digital forensics, information security, and data protection.
+- 💡 I enjoy learning about new technologies, enhancing my coding skills, and working on projects challenging my creativity and problem-solving abilities.
 - 🧑‍💻 Currently, I'm gaining experience with programming languages such as **Java, Python, C**, and **JavaScript**.
 
 ## Projects
 
-- 🎨 **Maria Rodriguez's Portfolio**: An interactive website that mimics an old computer desktop, providing a fun and engaging experience as users navigate through draggable icons representing various applications. It feels like a playful retro computer adventure, showcasing my work in a unique way!
+- 🎨 **Maria Rodriguez's Portfolio**: An interactive website that mimics an old computer desktop, providing a fun and engaging experience as users navigate through draggable icons representing various applications. It feels like a playful retro computer adventure, uniquely showcasing my work!
   
 - 🌱 **EcoHabit Tracker**: A fun iOS app designed to help kids develop sustainable habits through gamification, challenges, and educational tips. By learning how their actions positively impact the environment, kids can become eco-heroes!
 
