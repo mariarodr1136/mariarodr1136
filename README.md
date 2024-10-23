@@ -27,8 +27,4 @@ Welcome to my GitHub profile! I'm currently a student at **Florida International
 
 - 📧 [Email me](mailto:mrodr.contact@gmail.com)
 
-Feel free to check out my repositories and reach out if you'd like to collaborate on any projects. I'm always excited to learn new things and work on interesting challenges!
-
----
-
 Thanks for visiting my profile! 😊
