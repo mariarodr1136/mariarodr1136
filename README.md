@@ -1,20 +1,39 @@
 # Hi, I'm Maria Rodriguez! 👋
 
-Welcome to my GitHub profile! I’m a Cuban from Miami, Florida, currently studying **Computer Science** at **Florida International University** and pursuing a **Certificate in Cybersecurity Intelligence & Information Policy**. I have a passion for technology and enjoy solving problems using code.
+Welcome to my GitHub! I’m Maria, a passionate **Computer Science** student at **Florida International University** with a drive for innovation and problem-solving through technology. Originally from Cuba and based in Miami, Florida, I’m also pursuing a **Certificate in Cybersecurity Intelligence & Information Policy** to expand my understanding of security in today’s digital world. Here, you'll find projects that reflect my commitment to impactful and sustainable tech solutions.
 
-## About Me
+---
 
-- 🎓 I am building a strong computer science foundation, focusing on software development, algorithms, and cybersecurity.
-- 🛡️ My interest in **cybersecurity** drives me to explore digital forensics, information security, and data protection.
-- 💡 I enjoy learning about new technologies, enhancing my coding skills, and working on projects challenging my creativity and problem-solving abilities.
-- 🧑‍💻 Currently, I'm gaining experience with programming languages such as **Java, Python, C**, and **JavaScript**.
+## 🛠️ Languages, Tools & Frameworks
 
-## Projects
+**Languages**  
+- **Java**, **Python**, **MySQL**, **JavaScript/TypeScript**, **HTML/CSS**, **C/C++**, **Swift**
 
-- 🎨 **Maria Rodriguez's Portfolio**: An interactive website that mimics an old computer desktop, providing a fun and engaging experience as users navigate through draggable icons representing various applications. It feels like a playful retro computer adventure, uniquely showcasing my work!
-  
-- 🌱 **EcoHabit Tracker**: A fun iOS app designed to help kids develop sustainable habits through gamification, challenges, and educational tips. By learning how their actions positively impact the environment, kids can become eco-heroes!
+**Developer Tools**  
+- **Postman**, **Maven**, **Gradle**, **Xcode**
 
-## Connect with Me
+**Libraries & Frameworks**  
+- **Spring Boot**, **FastAPI/REST API**, **Node.js/Express.js**, **SwiftUI**
 
-- 📧 [Email me](mailto:mrodr.contact@gmail.com)
+---
+
+## 🚀 Latest Projects
+
+- **🌐 [Maria Rodriguez's Portfolio](https://mariarod1136.github.io/Portfolio/)**  
+  An interactive, retro-style website that transforms my portfolio into a fun, nostalgic computer desktop. This playful interface allows users to click and drag various icons, revealing my projects, experience, and interests in a unique, memorable way.
+
+- **🌱 EcoHabit Tracker**  
+  An iOS app empowering kids to cultivate eco-friendly habits through gamified challenges, educational tips, and engaging tasks. EcoHabit Tracker aims to inspire the next generation of eco-heroes by showing kids how their small actions can make a big difference in environmental conservation.
+
+---
+
+## 📫 Connect with Me
+
+I’m always open to collaborating or discussing tech ideas!
+
+- **Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)
+- **Website**: [mariarod1136.github.io/Portfolio](https://mariarod1136.github.io/Portfolio/)
+
+---
+
+Feel free to explore my repositories, and let’s make technology work for a better future!
