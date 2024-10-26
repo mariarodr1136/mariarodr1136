@@ -20,15 +20,6 @@ Welcome to my GitHub! I’m Maria, a passionate **Computer Science** student at 
 
 </div>
 
-**Languages**  
-- **Java**, **Python**, **MySQL**, **JavaScript/TypeScript**, **HTML/CSS**, **C/C++**, **C#**, **Swift**  
-
-**Developer Tools**  
-- **Postman**, **Maven**, **Gradle**, **Xcode**  
-
-**Libraries & Frameworks**  
-- **Spring Boot**, **FastAPI/REST API**, **Node.js/Express.js**, **SwiftUI**
-
 <img src="https://github.com/user-attachments/assets/6db60503-b3ae-45e9-8db1-a7213599536c" width="1000" alt="Image Description">
 
 ---
