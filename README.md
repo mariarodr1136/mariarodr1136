@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
 
 </div>
 
-- **🌐 [Maria Rodriguez's Portfolio](https://mariarod1136.github.io/Portfolio/)**
+- **🌐 Maria Rodriguez's Portfolio**
     *HTML | CSS | JavaScript | React.js*
   
   An interactive, retro-inspired website that turns my portfolio into a nostalgic computer desktop. Users can click and drag icons to explore my projects, experience, and interests in a unique, memorable way.
