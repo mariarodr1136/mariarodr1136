@@ -18,16 +18,6 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
 
 <div align="center">
 
-### 🛠️ Languages, Tools & Frameworks
-
-</div>
-
-<img src="https://github.com/user-attachments/assets/6db60503-b3ae-45e9-8db1-a7213599536c" width="1000" alt="Image Description">
-
----
-
-<div align="center">
-
 ### 🚀 Latest Projects
 
 </div>
@@ -44,7 +34,18 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
 
 ---
 
+
 <div align="center">
+
+### 🛠️ Languages, Tools & Frameworks
+
+</div>
+
+<img src="https://github.com/user-attachments/assets/6db60503-b3ae-45e9-8db1-a7213599536c" width="1000" alt="Image Description">
+
+<div align="center">
+
+---
 
 ### 🔨 Projects in Development
 
