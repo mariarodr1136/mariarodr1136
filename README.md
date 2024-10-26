@@ -7,7 +7,7 @@
 Welcome to my GitHub! I’m Maria, a passionate **Computer Science** student at **Florida International University** with a drive for innovation and problem-solving through technology. Originally from Cuba and based in Miami, Florida, I’m also pursuing a **Certificate in Cybersecurity Intelligence & Information Policy** to expand my understanding of security in today’s digital world. Here, you'll find projects that reflect my commitment to impactful and sustainable tech solutions.
 <br><br>
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyMm45bzljYTJvZzNvMDhpMDM5bWZwbnQ2OXBkOHl4ZjB0M3p6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXYiiLHl2qf9PhAqGp/giphy.webp" width="300" alt="Welcome GIF">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyMm45bzljYTJvZzNvMDhpMDM5bWZwbnQ2OXBkOHl4ZjB0M3p6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXYiiLHl2qf9PhAqGp/giphy.webp" width="250" alt="Welcome GIF">
 </div>
 
 <br><br>
@@ -56,4 +56,3 @@ I’m always open to collaborating or discussing tech ideas!
 - **Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)
 - **Website**: [mariarod1136.github.io/Portfolio](https://mariarod1136.github.io/Portfolio/)
 
----
