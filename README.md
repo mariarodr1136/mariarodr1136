@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hi, I'm Maria Rodriguez! 👋
+
+</div>
 
 Welcome to my GitHub! I’m Maria, a passionate **Computer Science** student at **Florida International University** with a drive for innovation and problem-solving through technology. Originally from Cuba and based in Miami, Florida, I’m also pursuing a **Certificate in Cybersecurity Intelligence & Information Policy** to expand my understanding of security in today’s digital world. Here, you'll find projects that reflect my commitment to impactful and sustainable tech solutions.
 <br><br>
@@ -10,7 +14,11 @@ Welcome to my GitHub! I’m Maria, a passionate **Computer Science** student at 
 
 ---
 
+<div align="center">
+
 ### 🛠️ Languages, Tools & Frameworks
+
+</div>
 
 **Languages**  
 - **Java**, **Python**, **MySQL**, **JavaScript/TypeScript**, **HTML/CSS**, **C/C++**, **C#**, **Swift**  
@@ -23,7 +31,11 @@ Welcome to my GitHub! I’m Maria, a passionate **Computer Science** student at 
 
 ---
 
-## 🚀 Latest Projects
+<div align="center">
+
+### 🚀 Latest Projects
+
+</div>
 
 - **🌐 [Maria Rodriguez's Portfolio](https://mariarod1136.github.io/Portfolio/)**  
   An interactive, retro-style website that transforms my portfolio into a fun, nostalgic computer desktop. This playful interface allows users to click and drag various icons, revealing my projects, experience, and interests in a unique, memorable way.
@@ -33,7 +45,11 @@ Welcome to my GitHub! I’m Maria, a passionate **Computer Science** student at 
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
+
+### 🌐 Connect with Me
+
+</div>
 
 I’m always open to collaborating or discussing tech ideas!
 
