@@ -23,12 +23,17 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
 - **🌐 Maria Rodriguez's Portfolio**
     *HTML | CSS | JavaScript | React.js*
   
-  An interactive, retro-inspired website that turns my portfolio into a nostalgic computer desktop. Users can click and drag icons to explore my projects, experience, and interests in a unique, memorable way.
+  An interactive, retro-inspired website that turns my portfolio into a nostalgic computer desktop. Users can click and drag icons to explore my projects, experiences, and interests in a unique, memorable way.
 
 - **🌱 EcoHabit Tracker**
   *Swift | SwiftUI | Xcode | Core Data*
   
   An iOS app empowering kids to develop eco-friendly habits through gamified challenges and educational tips. EcoHabit Tracker aims to inspire the next generation of eco-heroes by showing kids how small actions contribute to environmental conservation.
+
+- **📈 Micro-Investment Education Platform**
+    *React | Node.js | Express | MongoDB | Alpha Vantage API*
+
+    An engaging educational app that empowers beginners to explore investing through simulated micro-investments. Users can navigate market dynamics risk-free with virtual money, learn investment strategies, and track performance in a gamified environment.
 
 ---
 
