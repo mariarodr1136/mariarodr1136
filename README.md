@@ -12,6 +12,21 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
     </div>
 </div>
 
+<div align="center">
+
+---
+    
+### Languages
+![Java](https://img.shields.io/badge/Code-Java-blue) ![Python](https://img.shields.io/badge/Code-Python-yellow) ![MySQL](https://img.shields.io/badge/Code-MySQL-orange) ![HTML/CSS](https://img.shields.io/badge/Code-HTML%2FCSS-lightgrey) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-green) ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/Code-Swift-pink)
+
+### Developer Tools
+![Postman](https://img.shields.io/badge/Tools-Postman-blue) ![Maven](https://img.shields.io/badge/Tools-Maven-yellow) ![Gradle](https://img.shields.io/badge/Tools-Gradle-orange) ![Git/GitHub](https://img.shields.io/badge/Tools-Git%2FGitHub-lightgrey) ![Cloud Platforms (IoT Core, Lambda, S3)](https://img.shields.io/badge/Tools-Cloud%20Platforms%20%28IoT%20Core%2C%20Lambda%2C%20S3%29-purple) ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-green) ![Xcode](https://img.shields.io/badge/Tools-Xcode-red) ![Docker](https://img.shields.io/badge/Tools-Docker-pink)
+
+### Libraries/Frameworks
+![Spring Boot](https://img.shields.io/badge/Libraries-Spring%20Boot-blue) ![Fast/REST API](https://img.shields.io/badge/Libraries-Fast%2FREST%20API-yellow) ![Node.js](https://img.shields.io/badge/Libraries-Node.js-orange) ![Express](https://img.shields.io/badge/Libraries-Express-lightgrey) ![React](https://img.shields.io/badge/Libraries-React-purple) ![SwiftUI](https://img.shields.io/badge/Libraries-SwiftUI-green)
+
+</div>
+
 ---
 
 <div align="center">
@@ -36,13 +51,6 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
     An engaging educational app that empowers beginners to explore investing through simulated micro-investments. Users can navigate market dynamics risk-free with virtual money, learn investment strategies, and track performance in a gamified environment.
 
 ---
-
-
-<div align="center">
-
-### 🛠️ Languages, Tools & Frameworks
-
-</div>
 
 <img src="https://github.com/user-attachments/assets/6db60503-b3ae-45e9-8db1-a7213599536c" width="1000" alt="Image Description">
 
