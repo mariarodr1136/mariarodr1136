@@ -6,6 +6,8 @@
 
 Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student at **Florida International University** based in Miami, Florida. My passion for technology drives me to solve complex challenges and build impactful solutions. Alongside my degree, I’m also pursuing a **Certificate in Cybersecurity Intelligence & Information Policy**, deepening my expertise in security and digital policy. Here, you’ll find projects that highlight my commitment to innovative, sustainable tech solutions.
 
+Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍♀️🌴
+
 <div style="margin-top: 0;">
     <div align="center">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyMm45bzljYTJvZzNvMDhpMDM5bWZwbnQ2OXBkOHl4ZjB0M3p6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXYiiLHl2qf9PhAqGp/giphy.webp" width="250" alt="Welcome GIF">
