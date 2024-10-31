@@ -40,7 +40,7 @@ Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍�
 - **☁️ Atmosphere Analyzer: Smart Data Visualization Tool**
   *Python | AWS (Lambda, S3) | React | Django*
   
-  An innovative environmental monitoring system that simulates real-time sensor data using Python and integrates with AWS S3 for scalable storage. It utilizes AWS Lambda for dynamic data processing and deploys a Flask/Django API for data delivery. An intuitive React dashboard visualizes key environmental metrics, providing insights for sustainable resource management and enhancing understanding of environmental trends.
+  An innovative environmental monitoring system that simulates real-time sensor data with Python, integrates AWS S3 for storage, and uses AWS Lambda for processing. It features a Flask/Django API for data delivery and a React dashboard for visualizing key metrics, promoting sustainable resource management.
 
 - **🌱 EcoHabit Tracker**
   *Swift | SwiftUI | Xcode | Core Data*
