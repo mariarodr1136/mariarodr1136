@@ -37,10 +37,10 @@ Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍�
 
 </div>
 
-- **🌐 Maria Rodriguez's Portfolio**
-    *HTML | CSS | JavaScript | React.js*
+- **☁️ Atmosphere Analyzer: Smart Data Visualization Tool**
+  *Python | AWS (Lambda, S3) | React | Django*
   
-  An interactive, retro-inspired website that turns my portfolio into a nostalgic computer desktop. Users can click and drag icons to explore my projects, experiences, and interests in a unique, memorable way.
+  An innovative environmental monitoring system that simulates real-time sensor data using Python and integrates with AWS S3 for scalable storage. It utilizes AWS Lambda for dynamic data processing and deploys a Flask/Django API for data delivery. An intuitive React dashboard visualizes key environmental metrics, providing insights for sustainable resource management and enhancing understanding of environmental trends.
 
 - **🌱 EcoHabit Tracker**
   *Swift | SwiftUI | Xcode | Core Data*
@@ -69,10 +69,6 @@ Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍�
   
   Engineering a robust API service for an online bookstore, focusing on backend development and API architecture. Utilizing Java, Spring Boot, Postman, and MySQL to create scalable profile management features with multiple endpoints for user authentication, data validation, and efficient CRUD operations through RESTful actions.
 
-- **☁️ Cloud-Based IoT System | Environmental Monitor**
-  *Python | AWS (IoT Core, Lambda, S3) | Docker | React.js*
-  
-  Developing an IoT-based environmental monitoring system that collects real-time sensor data and processes it using AWS services. Leveraging AWS Lambda for data processing and storing data in S3. Implementing a web dashboard using React.js for data visualization, showcasing expertise in IoT-cloud integration and real-time monitoring.
 
 ---
 
