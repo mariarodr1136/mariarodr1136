@@ -22,10 +22,11 @@ Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍�
 ![Java](https://img.shields.io/badge/Code-Java-blue) ![Python](https://img.shields.io/badge/Code-Python-yellow) ![MySQL](https://img.shields.io/badge/Code-MySQL-orange) ![HTML/CSS](https://img.shields.io/badge/Code-HTML%2FCSS-lightgrey) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-green) ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/Code-Swift-pink)
 
 ### Developer Tools
-![Maven](https://img.shields.io/badge/Tools-Maven-yellow) ![Gradle](https://img.shields.io/badge/Tools-Gradle-orange) ![Cloud Platforms (IoT Core, Lambda, S3)](https://img.shields.io/badge/Tools-Cloud%20Platforms%20%28IoT%20Core%2C%20Lambda%2C%20S3%29-purple) ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-green) ![Xcode](https://img.shields.io/badge/Tools-Xcode-red) ![Docker](https://img.shields.io/badge/Tools-Docker-pink)
+![Maven](https://img.shields.io/badge/Tools-Maven-yellow) ![Gradle](https://img.shields.io/badge/Tools-Gradle-orange) ![Cloud Platforms (Lambda, S3)](https://img.shields.io/badge/Tools-Cloud%20Platforms%20%28Lambda%2C%20S3%29-purple) ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-green) ![Xcode](https://img.shields.io/badge/Tools-Xcode-red)
 
 ### Libraries/Frameworks
-![Spring Boot](https://img.shields.io/badge/Libraries-Spring%20Boot-blue) ![Fast/REST API](https://img.shields.io/badge/Libraries-Fast%2FREST%20API-yellow) ![Node.js](https://img.shields.io/badge/Libraries-Node.js-orange) ![Express](https://img.shields.io/badge/Libraries-Express-lightgrey) ![React](https://img.shields.io/badge/Libraries-React-purple) ![SwiftUI](https://img.shields.io/badge/Libraries-SwiftUI-green)
+![Spring Boot](https://img.shields.io/badge/Libraries-Spring%20Boot-blue) ![Fast/REST API](https://img.shields.io/badge/Libraries-Fast%2FREST%20API-yellow) ![Node.js](https://img.shields.io/badge/Libraries-Node.js-orange) ![Express](https://img.shields.io/badge/Libraries-Express-lightgrey) ![React](https://img.shields.io/badge/Libraries-React-purple) ![SwiftUI](https://img.shields.io/badge/Libraries-SwiftUI-green) ![Django](https://img.shields.io/badge/Libraries-Django-blue) 
+
 
 </div>
 
