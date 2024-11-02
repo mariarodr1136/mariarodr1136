@@ -55,7 +55,8 @@ Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍�
 
 ---
 
-<img src="https://github.com/user-attachments/assets/6db60503-b3ae-45e9-8db1-a7213599536c" width="1000" alt="Image Description">
+![IMG_9562](https://github.com/user-attachments/assets/28d2bc72-b6f6-4b37-91b2-fb86d784d597)
+
 
 <div align="center">
 
