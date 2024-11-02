@@ -59,17 +59,6 @@ Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍�
 
 <div align="center">
 
----
-
-### 🔨 Projects in Development
-
-</div>
-
-- **🧑‍🧑‍🧒‍🧒 Profile Management API**
-  *MySQL | Spring Boot | Postman | Java*
-  
-  Engineering a robust API service for an online bookstore, focusing on backend development and API architecture. Utilizing Java, Spring Boot, Postman, and MySQL to create scalable profile management features with multiple endpoints for user authentication, data validation, and efficient CRUD operations through RESTful actions.
-
 
 ---
 
@@ -81,5 +70,5 @@ Fun Fact: When I'm not coding.. I'm probably doing Pilates or Yoga! 🏄🏼‍�
 
 I’m always open to collaboration or chatting about new tech ideas!
 
-- **Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)
-- **Website**: [mariarodr1136.github.io/Portfolio/](https://mariarodr1136.github.io/Portfolio/)
+**Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)
+**Website**: [mariarodr1136.github.io/Portfolio/](https://mariarodr1136.github.io/Portfolio/)
