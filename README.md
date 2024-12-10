@@ -68,5 +68,6 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
 
 I’m always open to collaboration or chatting about new tech ideas!
 
-**Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)
-**Website**: [mariarodr1136.github.io/Portfolio/](https://mariarodr1136.github.io/Portfolio/)
+📧 **Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)  
+💻 **Portfolio**: [mariarodr1136.github.io/Portfolio/](https://mariarodr1136.github.io/Portfolio/)  
+💼 **LinkedIn**: [linkedin.com/in/mariarodr/](https://www.linkedin.com/in/mariarodr/)  
