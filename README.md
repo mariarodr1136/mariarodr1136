@@ -41,15 +41,15 @@ Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student
   
   An innovative environmental monitoring system that simulates real-time sensor data with Python, integrates AWS S3 for storage, and uses AWS Lambda for processing. It features a Flask/Django API for data delivery and a React dashboard for visualizing key metrics, promoting sustainable resource management.
 
-- **🌱 EcoHabit Tracker**
-  *Swift | SwiftUI | Xcode | Core Data*
+- **🚨 FraudWatch: Credit Card Fraud Detection System**
+  *Python | Flask | scikit-learn | Plotly*
   
-  An iOS app empowering kids to develop eco-friendly habits through gamified challenges and educational tips. EcoHabit Tracker aims to inspire the next generation of eco-heroes by showing kids how small actions contribute to environmental conservation.
+    FraudWatch is an advanced credit card fraud detection system that uses machine learning, specifically a Random Forest classifier, to predict fraudulent transactions. The system processes transaction data, incorporates robust data preprocessing, and provides interactive visualizations of model performance, helping users understand fraud detection accuracy in real-time.
 
 - **📈 Micro-Investment Education Platform**
     *React | Node.js | Express | MongoDB | Alpha Vantage API*
 
-    An engaging educational app that empowers beginners to explore investing through simulated micro-investments. Users can navigate market dynamics risk-free with virtual money, learn investment strategies, and track performance in a gamified environment.
+    A scalable platform for beginners to explore investing through simulated micro-investments. The app integrates real-time stock data from Alpha Vantage and uses MongoDB for data storage and React for an interactive UI. It helps users learn investment strategies, assess risks, and understand market trends in a risk-free environment.
 
 ---
 
