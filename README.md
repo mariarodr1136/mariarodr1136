@@ -4,7 +4,7 @@
 
 </div>
 
-Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** student at **Florida International University** based in Miami, Florida. My passion for technology drives me to solve complex challenges and build impactful solutions. Alongside my degree, I’m also pursuing a **Certificate in Cybersecurity Intelligence & Information Policy**, deepening my expertise in security and digital policy. Here, you’ll find projects that highlight my commitment to innovative, sustainable tech solutions. 🌴🏄🏼‍♀️🇨🇺
+Welcome to my GitHub! I’m Maria, a Cuban-American **Computer Science** graduate from **Florida International University**, based in Miami, Florida. My passion for technology drives me to solve complex challenges and build impactful solutions. During my studies, I also earned a **Certificate in Cybersecurity Intelligence & Information Policy**, deepening my expertise in security and digital policy. Here, you’ll find projects that highlight my commitment to innovative, sustainable tech solutions. 🌴🏄🏼‍♀️
 
 <div style="margin-top: 0;">
     <div align="center">
