@@ -44,8 +44,7 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 
 **🔌 Raspberry Pi & IoT Development**  
 Working through hands-on tutorials and projects to master embedded systems, GPIO programming, and IoT applications. 
-
-Check out my learning journey: [RaspberryPiTutorials](https://github.com/mariarodr1136/RaspberryPiTutorials)
+- Check out my learning journey: [RaspberryPiTutorials](https://github.com/mariarodr1136/RaspberryPiTutorials)
 
 **☁️ Advanced Cloud Architecture**  
 Deepening expertise in AWS services, serverless computing, and infrastructure as code
@@ -65,10 +64,10 @@ Exploring LangGraph, CrewAI, and practical applications of machine learning in p
 **Python | AWS (Lambda, S3) | React | Django**
 
 An innovative environmental monitoring system that revolutionizes real-time sensor data analysis:
-⚡ **35% efficiency boost** through serverless AWS Lambda pipeline architecture
-📊 Real-time insights via integrated AWS S3, Django REST API, and React dashboard
-🧪 Robust unit testing and Agile delivery ensuring accurate metric reporting
-🌱 Promotes sustainable resource management through actionable environmental data
+- ⚡ **35% efficiency boost** through serverless AWS Lambda pipeline architecture
+- 📊 Real-time insights via integrated AWS S3, Django REST API, and React dashboard
+- 🧪 Robust unit testing and Agile delivery ensuring accurate metric reporting
+- 🌱 Promotes sustainable resource management through actionable environmental data
 
 [View Project →](https://github.com/mariarodr1136/atmosphere-analyzer)
 
@@ -78,10 +77,10 @@ An innovative environmental monitoring system that revolutionizes real-time sens
 **React | Node.js | Express | MongoDB | Alpha Vantage API**
 
 A comprehensive platform democratizing investment education for beginners:
-💹 Real-time stock data integration via Alpha Vantage API
-🎯 Risk-free simulated trading environment for learning investment strategies
-📱 Responsive UI with interactive dashboards for market trend analysis
-🏗️ Scalable MongoDB architecture for user data and transaction handling
+- 💹 Real-time stock data integration via Alpha Vantage API
+- 🎯 Risk-free simulated trading environment for learning investment strategies
+- 📱 Responsive UI with interactive dashboards for market trend analysis
+- 🏗️ Scalable MongoDB architecture for user data and transaction handling
 
 [View Project →](https://github.com/mariarodr1136/micro-investment-platform)
 
@@ -91,10 +90,10 @@ A comprehensive platform democratizing investment education for beginners:
 **Python | Flask | scikit-learn | Plotly**
 
 Advanced ML-powered fraud detection achieving exceptional accuracy:
-🎯 **92% accuracy** using Random Forest classifier with optimized hyperparameters
-📉 Reduced false positives through sophisticated preprocessing and feature engineering
-📊 Interactive Plotly visualizations for real-time model performance insights
-🔄 Automated pipeline for scalable fraud classification
+- 🎯 **92% accuracy** using Random Forest classifier with optimized hyperparameters
+- 📉 Reduced false positives through sophisticated preprocessing and feature engineering
+- 📊 Interactive Plotly visualizations for real-time model performance insights
+- 🔄 Automated pipeline for scalable fraud classification
 
 [View Project →](https://github.com/mariarodr1136/fraudwatch)
 
@@ -104,10 +103,10 @@ Advanced ML-powered fraud detection achieving exceptional accuracy:
 **Java | Spring Boot | JavaScript | React | PostgreSQL**
 
 Enterprise-grade logistics tracking and visualization platform:
-🚚 Real-time shipment tracking with REST APIs and interactive dashboards
-🗺️ Enhanced visibility using React with Chart.js and Leaflet mapping
-✅ JUnit-tested endpoints ensuring reliability and accuracy
-☁️ Deployed on AWS EC2/S3 for production-grade scalability
+- 🚚 Real-time shipment tracking with REST APIs and interactive dashboards
+- 🗺️ Enhanced visibility using React with Chart.js and Leaflet mapping
+- ✅ JUnit-tested endpoints ensuring reliability and accuracy
+- ☁️ Deployed on AWS EC2/S3 for production-grade scalability
 
 [View Project →](https://github.com/mariarodr1136/supply-chain-visualizer)
 
