@@ -32,9 +32,6 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 ### Databases & Data Tools
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![Pandas](https://img.shields.io/badge/Library-Pandas-150458) ![NumPy](https://img.shields.io/badge/Library-NumPy-013243)
 
-### Testing & Methodologies
-![JUnit](https://img.shields.io/badge/Testing-JUnit-25A162) ![Jest](https://img.shields.io/badge/Testing-Jest-C21325) ![Agile](https://img.shields.io/badge/Methodology-Agile-blue) ![Scrum](https://img.shields.io/badge/Framework-Scrum-orange)
-
 </div>
 
 ---
@@ -45,7 +42,7 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 
 </div>
 
-**🔴 Raspberry Pi & IoT Development**  
+**⚡️�Raspberry Pi & IoT Development**  
 Working through hands-on tutorials and projects to master embedded systems, GPIO programming, and IoT applications. Check out my learning journey: [RaspberryPiTutorials](https://github.com/mariarodr1136/RaspberryPiTutorials)
 
 **☁️ Advanced Cloud Architecture**  
