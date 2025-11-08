@@ -6,8 +6,6 @@ Welcome to my GitHub!
 
 I'm Maria, a Cuban-American **Computer Science graduate** from **Florida International University**, based in Miami, Florida. With a **Certificate in Cybersecurity Intelligence & Information Policy** and hands-on experience in full-stack development, cloud architecture, and technical operations, I'm passionate about building scalable, secure, and impactful tech solutions.
 
-Currently exploring **IoT and embedded systems** through Raspberry Pi projects while expanding my cloud and DevOps expertise! 🚀
-
 </div>
 
 <div style="margin-top: 0;">
