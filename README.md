@@ -38,16 +38,13 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 
 <div align="center">
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 </div>
 
 **🔌 Raspberry Pi & IoT Development**  
 Working through hands-on tutorials and projects to master embedded systems, GPIO programming, and IoT applications. 
 - Check out my learning journey: [RaspberryPiTutorials](https://github.com/mariarodr1136/RaspberryPiTutorials)
-
-**☁️ Advanced Cloud Architecture**  
-Deepening expertise in AWS services, serverless computing, and infrastructure as code
 
 **🤖 AI/ML Integration**  
 Exploring LangGraph, CrewAI, and practical applications of machine learning in production systems
