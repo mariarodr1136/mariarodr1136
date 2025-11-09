@@ -69,7 +69,7 @@ An innovative environmental monitoring system that revolutionizes real-time sens
 - 🧪 Robust unit testing and Agile delivery ensuring accurate metric reporting
 - 🌱 Promotes sustainable resource management through actionable environmental data
 
-[View Project →](https://github.com/mariarodr1136/atmosphere-analyzer)
+[View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer)
 
 ---
 
@@ -82,7 +82,7 @@ A comprehensive platform democratizing investment education for beginners:
 - 📱 Responsive UI with interactive dashboards for market trend analysis
 - 🏗️ Scalable MongoDB architecture for user data and transaction handling
 
-[View Project →](https://github.com/mariarodr1136/micro-investment-platform)
+[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform)
 
 ---
 
@@ -95,7 +95,7 @@ Advanced ML-powered fraud detection achieving exceptional accuracy:
 - 📊 Interactive Plotly visualizations for real-time model performance insights
 - 🔄 Automated pipeline for scalable fraud classification
 
-[View Project →](https://github.com/mariarodr1136/fraudwatch)
+[View Project →](https://github.com/mariarodr1136/FraudDetectionSystem)
 
 ---
 
@@ -108,7 +108,7 @@ Enterprise-grade logistics tracking and visualization platform:
 - ✅ JUnit-tested endpoints ensuring reliability and accuracy
 - ☁️ Deployed on AWS EC2/S3 for production-grade scalability
 
-[View Project →](https://github.com/mariarodr1136/supply-chain-visualizer)
+[View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer)
 
 ---
 
