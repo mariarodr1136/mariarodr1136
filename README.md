@@ -11,6 +11,8 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 <div style="margin-top: 0;">
     <div align="center">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyMm45bzljYTJvZzNvMDhpMDM5bWZwbnQ2OXBkOHl4ZjB0M3p6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXYiiLHl2qf9PhAqGp/giphy.webp" width="250" alt="Welcome GIF">
+        <br>
+        <a href="https://mariarodr1136.github.io/Portfolio/" target="_blank">Visit My Portfolio</a>
     </div>
 </div>
 
