@@ -44,9 +44,9 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 
 </div>
 
-**🔌 Raspberry Pi & IoT Development**  
-Working through hands-on tutorials and projects to master embedded systems, GPIO programming, and IoT applications. 
-- Check out my learning journey: [RaspberryPiTutorials](https://github.com/mariarodr1136/RaspberryPiTutorials)
+**🔌 Raspberry Pi & Embedded Systems**  
+A collection of hands-on projects and experiments exploring hardware interfacing, GPIO programming, sensor integration, and automation on the Raspberry Pi.  
+- Explore the full repository: [RaspberryPiLab](https://github.com/mariarodr1136/RaspberryPiLab)
 
 **🤖 AI/ML Integration**  
 Exploring LangGraph, CrewAI, and practical applications of machine learning in production systems
