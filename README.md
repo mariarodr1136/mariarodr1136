@@ -48,6 +48,10 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 A collection of hands-on projects and experiments exploring hardware interfacing, GPIO programming, sensor integration, and automation on the Raspberry Pi.  
 - Explore the full repository: [RaspberryPiLab](https://github.com/mariarodr1136/RaspberryPiLab)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51ab23d8-1c68-41f7-939c-bfdde708e5b0" alt="IMG_5087" width="90%">
+</p>
+
 **🤖 AI/ML Integration**  
 Exploring LangGraph, CrewAI, and practical applications of machine learning in production systems
 
