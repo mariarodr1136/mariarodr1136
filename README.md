@@ -48,7 +48,7 @@ I'm Maria, a Cuban-American **Computer Science graduate** from **Florida Interna
 A collection of hands-on projects and experiments exploring hardware interfacing, GPIO programming, sensor integration, and automation on the Raspberry Pi.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/51ab23d8-1c68-41f7-939c-bfdde708e5b0" alt="IMG_5087" width="60%">
+  <img src="https://github.com/user-attachments/assets/b8164df9-7d3f-4a9b-8672-7262695ffa76" alt="IMG_5128" width="60%">
 </p>
 
 <p align="center">
