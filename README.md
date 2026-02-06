@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-I'm Maria, a Cuban-American **Computer Science graduate** from **Florida International University**, based in Miami, Florida. With a **Certificate in Cybersecurity Intelligence & Information Policy** and hands-on experience in full-stack development, cloud architecture, and technical operations, I'm passionate about building scalable, secure, and impactful tech solutions.
+I’m Maria, a Cuban-American Software Engineer based in Miami. With a foundation in Computer Science from FIU, I specialize in building full-stack applications and cloud architecture with a security-first mindset. By blending my background in Cybersecurity Intelligence with hands-on technical operations, I focus on engineering resilient, scalable solutions that solve real-world problems. I am dedicated to contributing high-quality code and innovative thinking to the ever-evolving tech landscape.
 
 </div>
 
