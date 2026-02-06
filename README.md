@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-I’m Maria, a Miami-based developer with a foundation in Computer Science from Florida International University and Certification in Cybersecurity Intelligence & Information Policy. I focus on building full-stack applications and cloud architecture. I’m dedicated to writing clean code and staying curious within an ever-evolving tech landscape, focusing on building practical solutions to real-world problems.
+I’m Maria, a Miami-based developer with a foundation in Computer Science from Florida International University and Certification in Cybersecurity Intelligence & Information Policy. I focus on developing impactful technology across full-stack development, cybersecurity, and data analysis. I’m dedicated to writing clean code and staying curious as the tech landscape evolves, always aiming to build practical solutions to real-world problems.
 
 </div>
 
