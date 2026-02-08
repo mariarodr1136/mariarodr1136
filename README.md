@@ -71,8 +71,6 @@ A collection of hands-on projects exploring **embedded systems**, **computer vis
 
 </div>
 
----
-
 ### 🪴 LeafMedic: Embedded Plant Disease Detection
 **Python | Raspberry Pi | TensorFlow Lite | PyQt5 | OpenCV**
 
