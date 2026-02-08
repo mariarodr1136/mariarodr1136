@@ -22,17 +22,21 @@ I’m Maria, a Miami-based developer with a background in Computer Science and C
 
 ## 💻 Technical Skills
 
-### Languages & Core Technologies
+### 🧠 Languages & Core Technologies
 ![Java](https://img.shields.io/badge/Code-Java-blue) ![Python](https://img.shields.io/badge/Code-Python-yellow) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-green) ![SQL](https://img.shields.io/badge/Code-SQL-orange) ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/Code-Swift-pink)
 
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen) ![React](https://img.shields.io/badge/Framework-React-61DAFB) ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933) ![Django](https://img.shields.io/badge/Framework-Django-092E20) ![Flask](https://img.shields.io/badge/Framework-Flask-000000) ![Express](https://img.shields.io/badge/Framework-Express-lightgrey) ![SwiftUI](https://img.shields.io/badge/Framework-SwiftUI-blue)
+### 🧩 Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-orange) ![TensorFlow Lite](https://img.shields.io/badge/ML-TensorFlow%20Lite-FF6F00) ![OpenCV](https://img.shields.io/badge/CV-OpenCV-green) ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-brightgreen) ![NumPy](https://img.shields.io/badge/Math-NumPy-013243) ![Pandas](https://img.shields.io/badge/Data-Pandas-150458) ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen) ![React](https://img.shields.io/badge/Framework-React-61DAFB) ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933) ![Django](https://img.shields.io/badge/Framework-Django-092E20) ![Flask](https://img.shields.io/badge/Framework-Flask-000000) ![Express](https://img.shields.io/badge/Framework-Express-lightgrey) ![SwiftUI](https://img.shields.io/badge/Framework-SwiftUI-blue)
 
-### Cloud & DevOps
+### ⚙️ Embedded, Edge & Systems
+![Raspberry Pi](https://img.shields.io/badge/Embedded-Raspberry%20Pi-C51A4A) ![Edge AI](https://img.shields.io/badge/AI-Edge%20AI-purple) ![Linux](https://img.shields.io/badge/OS-Linux-lightgrey) ![Real-Time Inference](https://img.shields.io/badge/Inference-Real--Time-success) ![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-2E8B57)
+
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![EC2](https://img.shields.io/badge/AWS-EC2-orange) ![S3](https://img.shields.io/badge/AWS-S3-orange) ![Git](https://img.shields.io/badge/VCS-Git-F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
 
-### Databases & Data Tools
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![Pandas](https://img.shields.io/badge/Library-Pandas-150458) ![NumPy](https://img.shields.io/badge/Library-NumPy-013243)
+### 🗄️ Databases & Data Tools
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey) ![NumPy](https://img.shields.io/badge/Library-NumPy-013243) ![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
+
 
 </div>
 
@@ -44,19 +48,18 @@ I’m Maria, a Miami-based developer with a background in Computer Science and C
 
 </div>
 
-**🔌 Raspberry Pi & Embedded Systems**  
-A collection of hands-on projects and experiments exploring hardware interfacing, GPIO programming, sensor integration, and automation on the Raspberry Pi.  
+**🧠 Embedded AI, Computer Vision & Raspberry Pi Systems**  
+
+A collection of hands-on projects exploring **embedded systems**, **computer vision**, and **machine learning deployment** on the **Raspberry Pi**. This work focuses on real-world hardware–software integration, including camera-based image processing, GPIO interfacing, sensor-driven pipelines, and optimized **on-device inference** using lightweight ML models. Projects emphasize modular design, performance constraints, and practical edge AI applications.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8164df9-7d3f-4a9b-8672-7262695ffa76" alt="IMG_5128" width="60%">
+  <img src="https://github.com/user-attachments/assets/b8164df9-7d3f-4a9b-8672-7262695ffa76" alt="Raspberry Pi Embedded AI" width="60%">
 </p>
 
 <p align="center">
   Explore the full repository: <a href="https://github.com/mariarodr1136/RaspberryPiLab">RaspberryPiLab</a>
 </p>
 
-**🤖 AI/ML Integration**  
-Exploring LangGraph, CrewAI, and practical applications of machine learning in production systems
 
 ---
 
@@ -65,6 +68,22 @@ Exploring LangGraph, CrewAI, and practical applications of machine learning in p
 ## 🚀 Featured Projects
 
 </div>
+
+---
+
+### 🪴 LeafMedic: Embedded Plant Disease Detection
+**Python | Raspberry Pi | TensorFlow Lite | PyQt5 | OpenCV**
+
+An end-to-end edge AI system for real-time plant disease detection on embedded hardware:
+- 📸 **Live leaf image analysis** using Raspberry Pi camera module
+- 🤖 On-device **ML inference** with optimized TensorFlow Lite MobileNet model
+- 🩺 GUI displays disease classification, confidence scores, and treatment recommendations
+- ⚡ Fast, low-latency pipeline (~145ms per image) for practical edge deployment
+- 🌱 Supports 16 plant disease classes across 4 crops, with expansion plans for 43 diseases
+
+[View Project →](https://github.com/mariarodr1136/LeafMedic)
+
+---
 
 ### 🌎 Atmosphere Analyzer: Smart Data Visualization Tool
 **Python | AWS (Lambda, S3) | React | Django**
@@ -90,18 +109,6 @@ A comprehensive platform democratizing investment education for beginners:
 
 [View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform)
 
----
-
-### 🚨 FraudWatch: Credit Card Fraud Detection System
-**Python | Flask | scikit-learn | Plotly**
-
-Advanced ML-powered fraud detection achieving exceptional accuracy:
-- 🎯 **92% accuracy** using Random Forest classifier with optimized hyperparameters
-- 📉 Reduced false positives through sophisticated preprocessing and feature engineering
-- 📊 Interactive Plotly visualizations for real-time model performance insights
-- 🔄 Automated pipeline for scalable fraud classification
-
-[View Project →](https://github.com/mariarodr1136/FraudDetectionSystem)
 
 ---
 
