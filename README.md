@@ -57,8 +57,10 @@ A collection of hands-on projects exploring **embedded systems**, **computer vis
 </p>
 
 <p align="center">
-  Explore the full repository: <a href="https://github.com/mariarodr1136/RaspberryPiLab">RaspberryPiLab</a>
+  Explore the full Raspberry Pi projects repository: <a href="https://github.com/mariarodr1136/RaspberryPiLab">RaspberryPiLab</a><br>
+  Check out the ML & Computer Vision project with Raspberry Pi: <a href="https://github.com/mariarodr1136/LeafMedic">LeafMedic</a>
 </p>
+
 
 
 ---
