@@ -71,6 +71,19 @@ A collection of hands-on projects exploring **embedded systems**, **computer vis
 
 </div>
 
+### 🌎 Atmosphere Analyzer: Smart Data Visualization Tool
+**Python | AWS (Lambda, S3) | React | Django**
+
+An innovative environmental monitoring system that revolutionizes real-time sensor data analysis:
+- ⚡ **35% efficiency boost** through serverless AWS Lambda pipeline architecture
+- 📊 Real-time insights via integrated AWS S3, Django REST API, and React dashboard
+- 🧪 Robust unit testing and Agile delivery ensuring accurate metric reporting
+- 🌱 Promotes sustainable resource management through actionable environmental data
+
+[View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
+
+---
+
 ### 🪴 LeafMedic: Embedded Plant Disease Detection
 **Python | Raspberry Pi | TensorFlow Lite | PyQt5 | OpenCV**
 
@@ -85,19 +98,6 @@ An end-to-end edge AI system for real-time plant disease detection on embedded h
 
 ---
 
-### 🌎 Atmosphere Analyzer: Smart Data Visualization Tool
-**Python | AWS (Lambda, S3) | React | Django**
-
-An innovative environmental monitoring system that revolutionizes real-time sensor data analysis:
-- ⚡ **35% efficiency boost** through serverless AWS Lambda pipeline architecture
-- 📊 Real-time insights via integrated AWS S3, Django REST API, and React dashboard
-- 🧪 Robust unit testing and Agile delivery ensuring accurate metric reporting
-- 🌱 Promotes sustainable resource management through actionable environmental data
-
-[View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer)
-
----
-
 ### 📈 Micro-Investment Education Platform
 **React | Node.js | Express | MongoDB | Alpha Vantage API**
 
@@ -107,7 +107,7 @@ A comprehensive platform democratizing investment education for beginners:
 - 📱 Responsive UI with interactive dashboards for market trend analysis
 - 🏗️ Scalable MongoDB architecture for user data and transaction handling
 
-[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform)
+[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
 
 
 ---
@@ -121,7 +121,7 @@ Enterprise-grade logistics tracking and visualization platform:
 - ✅ JUnit-tested endpoints ensuring reliability and accuracy
 - ☁️ Deployed on AWS EC2/S3 for production-grade scalability
 
-[View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer)
+[View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer) | [Live Demo →](https://supply-chain-visualizer.onrender.com/)
 
 ---
 
