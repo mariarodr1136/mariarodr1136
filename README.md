@@ -32,11 +32,10 @@ I’m Maria, a Miami-based developer with a background in Computer Science and C
 ![Raspberry Pi](https://img.shields.io/badge/Embedded-Raspberry%20Pi-C51A4A) ![Edge AI](https://img.shields.io/badge/AI-Edge%20AI-purple) ![Linux](https://img.shields.io/badge/OS-Linux-lightgrey) ![Real-Time Inference](https://img.shields.io/badge/Inference-Real--Time-success) ![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-2E8B57)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![EC2](https://img.shields.io/badge/AWS-EC2-orange) ![S3](https://img.shields.io/badge/AWS-S3-orange) ![Git](https://img.shields.io/badge/VCS-Git-F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![EC2](https://img.shields.io/badge/AWS-EC2-orange) ![S3](https://img.shields.io/badge/AWS-S3-orange) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/VCS-Git-F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
 
 ### 🗄️ Databases & Data Tools
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey) ![NumPy](https://img.shields.io/badge/Library-NumPy-013243) ![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
-
 
 </div>
 
@@ -113,7 +112,7 @@ A comprehensive platform democratizing investment education for beginners:
 ---
 
 ### 📦 Supply Chain Visualizer: Real-Time Logistics
-**Java | Spring Boot | JavaScript | React | PostgreSQL**
+**Java | Spring Boot | JavaScript | React | PostgreSQL | Docker**
 
 Enterprise-grade logistics tracking and visualization platform:
 - 🚚 Real-time shipment tracking with REST APIs and interactive dashboards
