@@ -138,7 +138,7 @@ Enterprise-grade logistics tracking and visualization platform:
 I'm always excited to collaborate on innovative projects or discuss new tech ideas!
 
 📧 **Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)  
-💻 **Portfolio**: [mariarodr1136.github.io/Portfolio/](https://mariarodr1136.github.io/Portfolio/)  
+💻 **Portfolio**: [maria-portfolio-envz.onrender.com/](https://maria-portfolio-envz.onrender.com/)  
 💼 **LinkedIn**: [linkedin.com/in/mariarodr/](https://www.linkedin.com/in/mariarodr/)  
 🐱 **GitHub**: [@mariarodr1136](https://github.com/mariarodr1136)
 
