@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-I'm Maria, a Miami-based developer with a background in Computer Science and Cybersecurity
+Miami-Based Developer | Computer Science & Cybersecurity
 
 Passionate about writing clean code to build practical, real-world tools
 
