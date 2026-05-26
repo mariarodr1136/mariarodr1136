@@ -73,9 +73,9 @@ A voice-driven web application designed to simulate technical interviews for dev
 </p>
 
 <p align="center">
-  Live Application: <a href="https://genai-technical-interviewer-1.onrender.com/">GenAI Interviewer Demo</a>
+  Explore the full repository: <a href="https://github.com/mariarodr1136/GenAI-Technical-Interviewer" target="_blank">GenAI-Technical-Interviewer</a><br>
+  Live Application: <a href="https://genai-technical-interviewer-1.onrender.com/" target="_blank">GenAI Interviewer Demo</a>
 </p>
-
 
 ---
 
