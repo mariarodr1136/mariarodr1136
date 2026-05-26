@@ -49,7 +49,7 @@ Passionate about writing clean code to build practical, real-world tools
 
 </div>
 
-**🧠 Embedded AI, Computer Vision & Raspberry Pi Systems**  
+**🧠 Embedded AI, Computer Vision & Raspberry Pi Systems** 
 
 A collection of hands-on projects exploring **embedded systems**, **computer vision**, and **machine learning deployment** on the **Raspberry Pi**. This work focuses on real-world hardware–software integration, including camera-based image processing, GPIO interfacing, sensor-driven pipelines, and optimized **on-device inference** using lightweight ML models. Projects emphasize modular design, performance constraints, and practical edge AI applications.
 
@@ -62,6 +62,19 @@ A collection of hands-on projects exploring **embedded systems**, **computer vis
   Check out the ML & Computer Vision project with Raspberry Pi: <a href="https://github.com/mariarodr1136/LeafMedic">LeafMedic</a>
 </p>
 
+---
+
+**🎙️ GenAI Technical Interviewer**
+
+A voice-driven web application designed to simulate technical interviews for developers. By combining a **React frontend** with a lightweight **Node.js/Express backend**, this platform enables realistic conversational flows. It leverages **Groq Whisper Large v3** for low-latency speech-to-text transcription and **Groq Llama 3 70B** for intelligent, context-aware follow-up questions. The architecture emphasizes API integration, strict prompt engineering, and native browser Web Speech API utilization to create a seamless practice environment.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b631b289-815b-4bdb-a640-a944b5b1eca9" alt="GenAI Technical Interviewer Demo" width="60%">
+</p>
+
+<p align="center">
+  Test out the live application: <a href="https://genai-technical-interviewer-1.onrender.com/">GenAI Interviewer Demo</a>
+</p>
 
 
 ---
@@ -78,7 +91,7 @@ A collection of hands-on projects exploring **embedded systems**, **computer vis
 An innovative environmental monitoring system that revolutionizes real-time sensor data analysis:
 - ⚡ **35% efficiency boost** through serverless AWS Lambda pipeline architecture
 - 📊 Real-time insights via integrated AWS S3, Django REST API, and React dashboard
-- 🧪 Robust unit testing and Agile delivery ensuring accurate metric reporting
+- 🧪 Thorough unit testing and Agile delivery ensuring accurate metric reporting
 - 🌱 Promotes sustainable resource management through actionable environmental data
 
 [View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
@@ -106,7 +119,7 @@ A comprehensive platform democratizing investment education for beginners:
 - 💹 Real-time stock data integration via Alpha Vantage API
 - 🎯 Risk-free simulated trading environment for learning investment strategies
 - 📱 Responsive UI with interactive dashboards for market trend analysis
-- 🏗️ Scalable MongoDB architecture for user data and transaction handling
+- 🏗️ Flexible MongoDB architecture for user data and transaction handling
 
 [View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
 
@@ -120,7 +133,7 @@ Enterprise-grade logistics tracking and visualization platform:
 - 🚚 Real-time shipment tracking with REST APIs and interactive dashboards
 - 🗺️ Enhanced visibility using React with Chart.js and Leaflet mapping
 - ✅ JUnit-tested endpoints ensuring reliability and accuracy
-- ☁️ Deployed on AWS EC2/S3 for production-grade scalability
+- ☁️ Deployed on AWS EC2/S3 for production-grade performance
 
 [View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer) | [Live Demo →](https://supply-chain-visualizer.onrender.com/)
 
@@ -143,5 +156,3 @@ I'm always excited to collaborate on innovative projects or discuss new tech ide
 🐱 **GitHub**: [@mariarodr1136](https://github.com/mariarodr1136)
 
 ---
-
-
