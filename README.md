@@ -45,13 +45,13 @@ Passionate about writing clean code to build practical, real-world tools
 
 <div align="center">
 
-## 📚 Currently Learning
+## 🛠️ Currently Developing
 
 </div>
 
 **🧠 Embedded AI, Computer Vision & Raspberry Pi Systems** 
 
-A collection of hands-on projects exploring **embedded systems**, **computer vision**, and **machine learning deployment** on the **Raspberry Pi**. This work focuses on real-world hardware–software integration, including camera-based image processing, GPIO interfacing, sensor-driven pipelines, and optimized **on-device inference** using lightweight ML models. Projects emphasize modular design, performance constraints, and practical edge AI applications.
+A collection of projects exploring **embedded systems**, **computer vision**, and **machine learning deployment** on the **Raspberry Pi**. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b8164df9-7d3f-4a9b-8672-7262695ffa76" alt="Raspberry Pi Embedded AI" width="60%">
@@ -64,9 +64,9 @@ A collection of hands-on projects exploring **embedded systems**, **computer vis
 
 ---
 
-**🎙️ GenAI Technical Interviewer**
+**🎙️ Voice-Driven AI & LLM Integrations**
 
-A voice-driven web application designed to simulate technical interviews for developers. By combining a **React frontend** with a lightweight **Node.js/Express backend**, this platform enables realistic conversational flows. It leverages **Groq Whisper Large v3** for low-latency speech-to-text transcription and **Groq Llama 3 70B** for intelligent, context-aware follow-up questions. The architecture emphasizes API integration, strict prompt engineering, and native browser Web Speech API utilization to create a seamless practice environment.
+Building the **GenAI Technical Interviewer** with **React**, **Node.js**, and **Groq APIs** to simulate speech-enabled conversations.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b631b289-815b-4bdb-a640-a944b5b1eca9" alt="GenAI Technical Interviewer Demo" width="60%">
