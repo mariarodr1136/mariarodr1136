@@ -85,55 +85,46 @@ Building the **GenAI Technical Interviewer** with **React**, **Node.js**, and **
 
 </div>
 
-### 🌎 Atmosphere Analyzer: Smart Data Visualization Tool
-**Python | AWS (Lambda, S3) | React | Django**
+### 🌎 Atmosphere Analyzer: Real Time Monitoring Dashboard
+**Python | React | Django | WebSockets**
 
-An innovative environmental monitoring system that revolutionizes real-time sensor data analysis:
-- ⚡ **35% efficiency boost** through serverless AWS Lambda pipeline architecture
-- 📊 Real-time insights via integrated AWS S3, Django REST API, and React dashboard
-- 🧪 Thorough unit testing and Agile delivery ensuring accurate metric reporting
-- 🌱 Promotes sustainable resource management through actionable environmental data
+*   ☁️ Architected a real-time dashboard streaming live weather and AQI data via Django Channels Websockets
+*   🔌 Integrated Open WeatherMap + OpenAQ APIs with EPA AQI conversion and stateful simulation fallback for zero downtime
+*   📊 Built an interactive React dashboard with alert thresholds, compare-cities mode, rolling time-series charts, and Leaflet maps
 
 [View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
 
 ---
 
-### 🪴 LeafMedic: Embedded Plant Disease Detection
-**Python | Raspberry Pi | TensorFlow Lite | PyQt5 | OpenCV**
+### 🪴 Leaf-Medic: Computer Vision & ML System
+**Python | TensorFlow | OpenCV | Raspberry Pi**
 
-An end-to-end edge AI system for real-time plant disease detection on embedded hardware:
-- 📸 **Live leaf image analysis** using Raspberry Pi camera module
-- 🤖 On-device **ML inference** with optimized TensorFlow Lite MobileNet model
-- 🩺 GUI displays disease classification, confidence scores, and treatment recommendations
-- ⚡ Fast, low-latency pipeline (~145ms per image) for practical edge deployment
-- 🌱 Supports 16 plant disease classes across 4 crops, with expansion plans for 43 diseases
+*   📸 Deployed TensorFlow Lite MobileNetV1 on Raspberry Pi achieving 90%+ accuracy across 16 disease classes
+*   ⚙️ Engineered preprocessing pipeline with automatic dtype detection, channels transposition, and dynamic input sizing
+*   🩺 Developed modular PyQt6 GUI with confidence-ranked predictions and 43-disease treatment database via QThread
 
 [View Project →](https://github.com/mariarodr1136/LeafMedic)
 
 ---
 
-### 📈 Micro-Investment Education Platform
+### 📈 Micro-Investment Full-Stack Platform[cite: 1]
 **React | Node.js | Express | MongoDB | Alpha Vantage API**
 
-A comprehensive platform democratizing investment education for beginners:
-- 💹 Real-time stock data integration via Alpha Vantage API
-- 🎯 Risk-free simulated trading environment for learning investment strategies
-- 📱 Responsive UI with interactive dashboards for market trend analysis
-- 🏗️ Flexible MongoDB architecture for user data and transaction handling
+*   🔒 Built JWT authentication with bcrypt hashing and Express middleware, enforcing per-user data ownership on all routes
+*   💹 Integrated Alpha Vantage and News API with server-side caching to handle rate limits and serve real-time stock data
+*   🎯 Developed MERN trading platform with live price previews, Chart.js trend charts, per-trade P&L tracking, and leaderboard
 
 [View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
 
 
 ---
 
-### 📦 Supply Chain Visualizer: Real-Time Logistics
-**Java | Spring Boot | JavaScript | React | PostgreSQL | Docker**
+### 📦 Supply Chain Visualizer: Logistics Dashboard
+**Java | Spring Boot | React | PostgreSQL | Docker**
 
-Enterprise-grade logistics tracking and visualization platform:
-- 🚚 Real-time shipment tracking with REST APIs and interactive dashboards
-- 🗺️ Enhanced visibility using React with Chart.js and Leaflet mapping
-- ✅ JUnit-tested endpoints ensuring reliability and accuracy
-- ☁️ Deployed on AWS EC2/S3 for production-grade performance
+*   🚚 Designed 20+ REST endpoints across shipments, inventory, and analytics resources using Spring Boot and Spring Data JPA
+*   🔐 Secured all routes with Spring Security + JWT stateless authentication and configured CORS for cross-origin requests
+*   🐳 Dockerized backend with multi-stage builds and deployed via Render Blueprint IaC with Leaflet maps and Chart.js
 
 [View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer) | [Live Demo →](https://supply-chain-visualizer.onrender.com/)
 
