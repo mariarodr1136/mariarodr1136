@@ -6,8 +6,6 @@ Welcome to my GitHub!
 
 Miami-Based Developer | Computer Science & Cybersecurity
 
-Passionate about writing clean code to build practical, real-world tools
-
 </div>
 
 <div style="margin-top: 0;">
