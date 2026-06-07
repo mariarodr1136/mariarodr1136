@@ -62,46 +62,20 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 
 ---
 
-**🎙️ Voice-Driven AI & LLM Integrations**
-
-Building the **GenAI Technical Interviewer** with **React**, **Node.js**, and **Groq APIs** to simulate speech-enabled conversations.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b631b289-815b-4bdb-a640-a944b5b1eca9" alt="GenAI Technical Interviewer Demo" width="60%">
-</p>
-
-<p align="center">
-  Explore the full repository: <a href="https://github.com/mariarodr1136/GenAI-Technical-Interviewer" target="_blank">GenAI-Technical-Interviewer</a><br>
-  Live Application: <a href="https://genai-technical-interviewer-1.onrender.com/" target="_blank">GenAI Interviewer Demo</a>
-</p>
-
----
-
 <div align="center">
 
 ## 🚀 Featured Projects
 
 </div>
 
-### 🌎 Atmosphere Analyzer: Real Time Monitoring Dashboard
-**Python | React | Django | WebSockets**
+### 📦 Nexus: Full-Stack Supply Chain Visualizer 
+**Java | Spring Boot | React | PostgreSQL | Docker**
 
-*   ☁️ Architected a real-time dashboard streaming live weather and AQI data via Django Channels Websockets
-*   🔌 Integrated Open WeatherMap + OpenAQ APIs with EPA AQI conversion and stateful simulation fallback for zero downtime
-*   📊 Built an interactive React dashboard with alert thresholds, compare-cities mode, rolling time-series charts, and Leaflet maps
+*   🚚 Designed 20+ REST endpoints across shipments, inventory, and analytics resources using Spring Boot and Spring Data JPA
+*   🔐 Secured all routes with Spring Security + JWT stateless authentication and configured CORS for cross-origin requests
+*   🐳 Dockerized backend with multi-stage builds and deployed via Render Blueprint IaC with Leaflet maps and Chart.js
 
-[View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
-
----
-
-### 🪴 Leaf-Medic: Computer Vision & ML System
-**Python | TensorFlow | OpenCV | Raspberry Pi**
-
-*   📸 Deployed TensorFlow Lite MobileNetV1 on Raspberry Pi achieving 90%+ accuracy across 16 disease classes
-*   ⚙️ Engineered preprocessing pipeline with automatic dtype detection, channels transposition, and dynamic input sizing
-*   🩺 Developed modular PyQt6 GUI with confidence-ranked predictions and 43-disease treatment database via QThread
-
-[View Project →](https://github.com/mariarodr1136/LeafMedic)
+[View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer) | [Live Demo →](https://supply-chain-visualizer.onrender.com/)
 
 ---
 
@@ -114,17 +88,27 @@ Building the **GenAI Technical Interviewer** with **React**, **Node.js**, and **
 
 [View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
 
+---
+
+### 🌎 Atmosphere Analyzer: Real Time Monitoring Dashboard
+**Python | React | Django | WebSockets**
+
+*   ☁️ Architected a real-time dashboard streaming live weather and AQI data via Django Channels Websockets
+*   🔌 Integrated Open WeatherMap + OpenAQ APIs with EPA AQI conversion and stateful simulation fallback for zero downtime
+*   📊 Built an interactive React dashboard with alert thresholds, compare-cities mode, rolling time-series charts, and Leaflet maps
+
+[View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
 
 ---
 
-### 📦 Nexus: Full-Stack Supply Chain Visualizer 
-**Java | Spring Boot | React | PostgreSQL | Docker**
+### 🎙️ GenAI: Voice-Driven AI Mock Interview App
+**React | Node.js | Groq | Whisper | Llama 3**
+*   🎤 Orchestrated a voice-to-AI pipeline using Groq Whisper Large v3 for transcription and Llama 3 70B for follow-up generation
+*   🎧 Implemented real-time audio capture via MediaRecorder and Web Audio APIs with text fallback and browser-native TTS
+*   🛠️ Built a modular Express backend with rate limiting (30 req/15 min), response sanitization, and separated prompt templates
 
-*   🚚 Designed 20+ REST endpoints across shipments, inventory, and analytics resources using Spring Boot and Spring Data JPA
-*   🔐 Secured all routes with Spring Security + JWT stateless authentication and configured CORS for cross-origin requests
-*   🐳 Dockerized backend with multi-stage builds and deployed via Render Blueprint IaC with Leaflet maps and Chart.js
+[View Project →](https://github.com/mariarodr1136/GenAI-Technical-Interviewer) | [Live Demo →](https://genai-technical-interviewer-1.onrender.com/)
 
-[View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer) | [Live Demo →](https://supply-chain-visualizer.onrender.com/)
 
 ---
 
