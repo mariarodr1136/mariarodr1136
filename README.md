@@ -117,7 +117,7 @@ Building the **GenAI Technical Interviewer** with **React**, **Node.js**, and **
 
 ---
 
-### 📦 Nexus: Supply Chain Visualizer 
+### 📦 Nexus: Full-Stack Supply Chain Visualizer 
 **Java | Spring Boot | React | PostgreSQL | Docker**
 
 *   🚚 Designed 20+ REST endpoints across shipments, inventory, and analytics resources using Spring Boot and Spring Data JPA
