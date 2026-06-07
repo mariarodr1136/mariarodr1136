@@ -105,7 +105,7 @@ Building the **GenAI Technical Interviewer** with **React**, **Node.js**, and **
 
 ---
 
-### 📈 Micro-Investment Full-Stack Platform
+### 📈 VestLab: Micro-Investment Full-Stack Platform
 **React | Node.js | Express | MongoDB | Alpha Vantage API**
 
 *   🔒 Built JWT authentication with bcrypt hashing and Express middleware, enforcing per-user data ownership on all routes
