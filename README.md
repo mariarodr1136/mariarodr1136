@@ -127,5 +127,3 @@ I'm always excited to collaborate on innovative projects or discuss new tech ide
 💻 **Portfolio**: [maria-portfolio-envz.onrender.com/](https://maria-portfolio-envz.onrender.com/)  
 💼 **LinkedIn**: [linkedin.com/in/mariarodr/](https://www.linkedin.com/in/mariarodr/)  
 🐱 **GitHub**: [@mariarodr1136](https://github.com/mariarodr1136)
-
----
