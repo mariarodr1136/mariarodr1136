@@ -79,14 +79,23 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 
 ---
 
-### 📈 VestLab: Micro-Investment Full-Stack Platform
-**React | Node.js | Express | MongoDB | Alpha Vantage API**
+### 🎙️ GenAI: Voice-Driven AI Mock Interview App
+**React | Node.js | Groq | Whisper | Llama 3**
+*   🎤 Orchestrated a voice-to-AI pipeline using Groq Whisper Large v3 for transcription and Llama 3 70B for follow-up generation
+*   🎧 Implemented real-time audio capture via MediaRecorder and Web Audio APIs with text fallback and browser-native TTS
+*   🛠️ Built a modular Express backend with rate limiting (30 req/15 min), response sanitization, and separated prompt templates
 
-*   🔒 Built JWT authentication with bcrypt hashing and Express middleware, enforcing per-user data ownership on all routes
-*   💹 Integrated Alpha Vantage and News API with server-side caching to handle rate limits and serve real-time stock data
-*   🎯 Developed MERN trading platform with live price previews, Chart.js trend charts, per-trade P&L tracking, and leaderboard
+[View Project →](https://github.com/mariarodr1136/GenAI-Technical-Interviewer) | [Live Demo →](https://genai-technical-interviewer-1.onrender.com/)
 
-[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
+---
+
+### 📊 JETSET: Franchise Intelligence Dashboard
+**TypeScript | Next.js | Prisma | Recharts | SQLite**
+* 🏢 Built a Next.js/TypeScript platform tracking KPIs, alerts, and pipeline across 25+ franchise studio locations
+* 🗄️ Designed an 8-model Prisma schema with strict server/client boundary — all ORM queries server-side only
+* 📉 Engineered a deterministic per-member churn model generating risk tiers, contributing factors, and an ROI calculator
+
+[View Project →](https://github.com/mariarodr1136/JETSET-Franchise-Intelligence) | [Live Demo →](https://jetset-franchise-intelligence.onrender.com/)
 
 ---
 
@@ -101,14 +110,14 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 
 ---
 
-### 🎙️ GenAI: Voice-Driven AI Mock Interview App
-**React | Node.js | Groq | Whisper | Llama 3**
-*   🎤 Orchestrated a voice-to-AI pipeline using Groq Whisper Large v3 for transcription and Llama 3 70B for follow-up generation
-*   🎧 Implemented real-time audio capture via MediaRecorder and Web Audio APIs with text fallback and browser-native TTS
-*   🛠️ Built a modular Express backend with rate limiting (30 req/15 min), response sanitization, and separated prompt templates
+### 📈 VestLab: Micro-Investment Full-Stack Platform
+**React | Node.js | Express | MongoDB | Alpha Vantage API**
 
-[View Project →](https://github.com/mariarodr1136/GenAI-Technical-Interviewer) | [Live Demo →](https://genai-technical-interviewer-1.onrender.com/)
+*   🔒 Built JWT authentication with bcrypt hashing and Express middleware, enforcing per-user data ownership on all routes
+*   💹 Integrated Alpha Vantage and News API with server-side caching to handle rate limits and serve real-time stock data
+*   🎯 Developed MERN trading platform with live price previews, Chart.js trend charts, per-trade P&L tracking, and leaderboard
 
+[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
 
 ---
 
