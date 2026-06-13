@@ -90,10 +90,10 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 ---
 
 ### 📊 JETSET: Franchise Intelligence Dashboard
-**TypeScript | Next.js | Prisma | Recharts | SQLite**
-* 🏢 Built a Next.js/TypeScript platform tracking KPIs, alerts, and pipeline across 25+ franchise studio locations
-* 🗄️ Designed an 8-model Prisma schema with strict server/client boundary — all ORM queries server-side only
-* 📉 Engineered a deterministic per-member churn model generating risk tiers, contributing factors, and an ROI calculator
+**TypeScript | Next.js | Prisma | Recharts | SQLite | Gemini API**
+* 🏢 Built a Next.js/TypeScript platform with SSE live alerts, Gemini streaming AI, and FTS5 search across 69 locations
+* 🗄️ Designed an 8-model Prisma schema with strict server/client boundary - all ORM queries server-side only
+* 📉 Engineered a sigmoid churn model (AUC 0.841) scoring 15K+ members with feature importance and an ROI calculator 
 
 [View Project →](https://github.com/mariarodr1136/JETSET-Franchise-Intelligence) | [Live Demo →](https://jetset-franchise-intelligence.onrender.com/)
 
