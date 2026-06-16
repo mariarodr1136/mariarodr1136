@@ -100,11 +100,11 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 ---
 
 ### 🌎 Atmosphere Analyzer: Real Time Monitoring Dashboard
-**Python | React | Django | WebSockets**
+**Python | React | Django | Docker | WebSockets**
 
-*   ☁️ Architected a real-time dashboard streaming live weather and AQI data via Django Channels Websockets
-*   🔌 Integrated Open WeatherMap + OpenAQ APIs with EPA AQI conversion and stateful simulation fallback for zero downtime
-*   📊 Built an interactive React dashboard with alert thresholds, compare-cities mode, rolling time-series charts, and Leaflet maps
+*   ☁️ Streamed live weather and AQI data via Django Channels WebSockets with automatic HTTP polling failover
+*   🔌 Engineered a 4-layer data fallback across live APIs, EPA PM2.5-to-AQI conversion, and DB-persisted simulation
+*   📊 Implemented z-score anomaly detection per city with real-time forecast panels, heatmaps, and CSV/PDF export
 
 [View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
 
