@@ -62,6 +62,20 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 
 ---
 
+**🤖 Operation Roomba: Procedural Stealth-Cleaning Browser Game**
+
+A top-down stealth cleaning game built entirely in **vanilla JavaScript** with no dependencies or build step. Play as a Roomba at 3am, sneaking through five procedurally generated rooms to clean up before the noise wakes the family.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f93267d7-d130-48a5-b43e-52d22c24c4de" alt="Operation Roomba Gameplay" width="60%">
+</p>
+
+<p align="center">
+<a href="https://github.com/mariarodr1136/OperationRoomba">OperationRoomba</a> · <a href="https://operation-roomba.onrender.com">Live Demo</a>
+</p>
+
+---
+
 <div align="center">
 
 ## 🚀 Featured Projects
