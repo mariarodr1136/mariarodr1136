@@ -71,7 +71,7 @@ A top-down stealth cleaning game built entirely in **vanilla JavaScript** with n
 </p>
 
 <p align="center">
-<a href="https://github.com/mariarodr1136/OperationRoomba">OperationRoomba</a> · <a href="https://operation-roomba.onrender.com">Live Demo</a>
+  <a href="https://github.com/mariarodr1136/OperationRoomba">OperationRoomba</a> · <a href="https://operationroomba.onrender.com/">Live Demo</a>
 </p>
 
 ---
