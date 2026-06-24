@@ -133,6 +133,6 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 I'm always excited to collaborate on innovative projects or discuss new tech ideas!
 
 📧 **Email**: [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com)  
-💻 **Portfolio**: [maria-portfolio-envz.onrender.com/](https://maria-portfolio-envz.onrender.com/)  
+💻 **Portfolio**: [mariarod.dev](https://mariarod.dev/)  
 💼 **LinkedIn**: [linkedin.com/in/mariarodr/](https://www.linkedin.com/in/mariarodr/)  
 🐱 **GitHub**: [@mariarodr1136](https://github.com/mariarodr1136)
