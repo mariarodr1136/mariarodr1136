@@ -82,7 +82,7 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 
 ### 🎙️ GenAI: Voice-Driven AI Mock Interview App
 **React | Node.js | Groq | Whisper | Groq Qwen3.6**
-*   🎤 Orchestrated a voice-to-AI pipeline using Groq Whisper Large v3 for transcription and Groq Qwen3.6 27B for follow-up generation
+*   🎤 Orchestrated voice-to-AI pipeline using Groq Whisper Large v3 for transcription and Qwen 3.6 27B for response generation
 *   🎧 Implemented real-time audio capture via MediaRecorder and Web Audio APIs with text fallback and browser-native TTS
 *   🛠️ Built a modular Express backend with rate limiting (30 req/15 min), response sanitization, and separated prompt templates
 
