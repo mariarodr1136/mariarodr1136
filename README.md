@@ -36,7 +36,7 @@ Miami-Based Developer | Computer Science & Cybersecurity
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![EC2](https://img.shields.io/badge/AWS-EC2-orange) ![S3](https://img.shields.io/badge/AWS-S3-orange) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/VCS-Git-F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
 
 ### 🗄️ Databases & Data Tools
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey) ![NumPy](https://img.shields.io/badge/Library-NumPy-013243) ![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey) ![NumPy](https://img.shields.io/badge/Library-NumPy-013243) ![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
 
 </div>
 
