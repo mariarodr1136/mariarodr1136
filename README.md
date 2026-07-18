@@ -46,20 +46,16 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 ## 🛠️ Currently Developing
 
+### 🌿 LeafMedic: Edge AI Plant Disease Detection System
+**Python | TensorFlow Lite | OpenCV | PyQt5 | Raspberry Pi**
+
+Developing an offline plant disease detection system for Raspberry Pi using an OpenCV pipeline and a PyQt5 interface. It utilizes an optimized TensorFlow Lite model to achieve 90%+ classification accuracy on embedded hardware.
+
+[View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
+
+<img width="700" alt="preview" src="https://github.com/user-attachments/assets/66cffe77-76b2-49ae-be9c-0d41acd4e0e1" />
+
 </div>
-
-**🧠 Embedded AI, Computer Vision & Raspberry Pi Systems** 
-
-A collection of projects exploring **embedded systems**, **computer vision**, and **machine learning deployment** on the **Raspberry Pi**. 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b8164df9-7d3f-4a9b-8672-7262695ffa76" alt="Raspberry Pi Embedded AI" width="60%">
-</p>
-
-<p align="center">
-  Explore the full Raspberry Pi projects repository: <a href="https://github.com/mariarodr1136/RaspberryPiLab">RaspberryPiLab</a><br>
-  Check out the ML & Computer Vision project with Raspberry Pi: <a href="https://github.com/mariarodr1136/LeafMedic">LeafMedic</a>
-</p>
 
 ---
 
@@ -111,14 +107,14 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 
 ---
 
-### 🌿 LeafMedic: Edge AI Plant Disease Detection System
-**Python | TensorFlow Lite | OpenCV | PyQt5 | Raspberry Pi**
+### 📈 VestLab: Micro-Investment Full-Stack Platform
+**React | Node.js | Express | MongoDB | Alpha Vantage API**
 
-*   🧠 Optimized a TensorFlow Lite MobileNet model for embedded hardware, achieving 90%+ classification accuracy
-*   📷 Constructed an OpenCV computer vision pipeline to preprocess camera feeds and handle real-time image extraction
-*   🖥️ Developed an offline PyQt5 graphical interface deployed directly on a Raspberry Pi for end-to-end, on-site agricultural inference
+*   🔒 Built JWT authentication with bcrypt hashing and Express middleware, enforcing per-user data ownership on all routes
+*   💹 Integrated Alpha Vantage and News API with server-side caching to handle rate limits and serve real-time stock data
+*   🎯 Developed MERN trading platform with live price previews, Chart.js trend charts, per-trade P&L tracking, and leaderboard
 
-[View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
+[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
 
 ---
 
