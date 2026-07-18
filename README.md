@@ -111,14 +111,14 @@ A collection of projects exploring **embedded systems**, **computer vision**, an
 
 ---
 
-### 📈 VestLab: Micro-Investment Full-Stack Platform
-**React | Node.js | Express | MongoDB | Alpha Vantage API**
+### 🌿 LeafMedic: Edge AI Plant Disease Detection System
+**Python | TensorFlow Lite | OpenCV | PyQt5 | Raspberry Pi**
 
-*   🔒 Built JWT authentication with bcrypt hashing and Express middleware, enforcing per-user data ownership on all routes
-*   💹 Integrated Alpha Vantage and News API with server-side caching to handle rate limits and serve real-time stock data
-*   🎯 Developed MERN trading platform with live price previews, Chart.js trend charts, per-trade P&L tracking, and leaderboard
+*   🧠 Optimized a TensorFlow Lite MobileNet model for embedded hardware, achieving 90%+ classification accuracy
+*   📷 Constructed an OpenCV computer vision pipeline to preprocess camera feeds and handle real-time image extraction
+*   🖥️ Developed an offline PyQt5 graphical interface deployed directly on a Raspberry Pi for end-to-end, on-site agricultural inference
 
-[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
+[View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
 
 ---
 
