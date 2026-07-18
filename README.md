@@ -49,7 +49,7 @@ Miami-Based Developer | Computer Science & Cybersecurity
 ### 🌿 LeafMedic: Edge AI Plant Disease Detection System
 **Python | TensorFlow Lite | OpenCV | PyQt5 | Raspberry Pi**
 
-Developing an offline plant disease detection system for Raspberry Pi using an OpenCV pipeline and a PyQt5 interface. It utilizes an optimized TensorFlow Lite model to achieve 90%+ classification accuracy on embedded hardware.
+Developing an on-device plant disease detection system that deploys one quantized MobileNet across browser, desktop, and Raspberry Pi via ONNX Runtime Web and TensorFlow Lite. Achieves sub-150 ms embedded inference with cross-runtime parity verified by 146 CI tests.
 
 [View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
 
