@@ -105,16 +105,6 @@ Developing an on-device plant disease detection system that deploys one quantize
 
 [View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
 
----
-
-### 📈 VestLab: Micro-Investment Full-Stack Platform
-**React | Node.js | Express | MongoDB | Alpha Vantage API**
-
-*   🔒 Built JWT authentication with bcrypt hashing and Express middleware, enforcing per-user data ownership on all routes
-*   💹 Integrated Alpha Vantage and News API with server-side caching to handle rate limits and serve real-time stock data
-*   🎯 Developed MERN trading platform with live price previews, Chart.js trend charts, per-trade P&L tracking, and leaderboard
-
-[View Project →](https://github.com/mariarodr1136/MicroInvestmentPlatform) | [Live Demo →](https://microinvestmentplatform-frontend.onrender.com/)
 
 ---
 
