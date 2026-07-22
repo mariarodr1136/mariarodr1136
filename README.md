@@ -29,7 +29,7 @@ One quantized MobileNet model deployed across browser, desktop, and Raspberry Pi
 
 [View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
 
-<img width="700" alt="preview" src="https://github.com/user-attachments/assets/66cffe77-76b2-49ae-be9c-0d41acd4e0e1" />
+<img width="600" alt="preview" src="https://github.com/user-attachments/assets/66cffe77-76b2-49ae-be9c-0d41acd4e0e1" />
 
 </div>
 
