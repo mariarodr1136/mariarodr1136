@@ -21,22 +21,26 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 <div align="center">
 
-## 💻 Technical Skills
-
-### 🧠 Languages & Core Technologies
+### 🧠 Languages
 ![Java](https://img.shields.io/badge/Code-Java-blue) ![Python](https://img.shields.io/badge/Code-Python-yellow) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-green) ![SQL](https://img.shields.io/badge/Code-SQL-orange) ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/Code-Swift-pink)
 
 ### 🧩 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-orange) ![TensorFlow Lite](https://img.shields.io/badge/ML-TensorFlow%20Lite-FF6F00) ![OpenCV](https://img.shields.io/badge/CV-OpenCV-green) ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-brightgreen) ![NumPy](https://img.shields.io/badge/Math-NumPy-013243) ![Pandas](https://img.shields.io/badge/Data-Pandas-150458) ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen) ![React](https://img.shields.io/badge/Framework-React-61DAFB) ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933) ![Django](https://img.shields.io/badge/Framework-Django-092E20) ![Flask](https://img.shields.io/badge/Framework-Flask-000000) ![Express](https://img.shields.io/badge/Framework-Express-lightgrey) ![SwiftUI](https://img.shields.io/badge/Framework-SwiftUI-blue)
+![React](https://img.shields.io/badge/Framework-React-61DAFB) ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000) ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933) ![Express](https://img.shields.io/badge/Framework-Express-lightgrey) ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen) ![Spring Security](https://img.shields.io/badge/Security-Spring%20Security-6DB33F) ![Django](https://img.shields.io/badge/Framework-Django-092E20) ![Flask](https://img.shields.io/badge/Framework-Flask-000000) ![SwiftUI](https://img.shields.io/badge/Framework-SwiftUI-blue)
+
+### 🤖 ML & Data
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-orange) ![TensorFlow Lite](https://img.shields.io/badge/ML-TensorFlow%20Lite-FF6F00) ![OpenCV](https://img.shields.io/badge/CV-OpenCV-green) ![NumPy](https://img.shields.io/badge/Math-NumPy-013243) ![Pandas](https://img.shields.io/badge/Data-Pandas-150458) ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-brightgreen)
 
 ### ⚙️ Embedded, Edge & Systems
 ![Raspberry Pi](https://img.shields.io/badge/Embedded-Raspberry%20Pi-C51A4A) ![Edge AI](https://img.shields.io/badge/AI-Edge%20AI-purple) ![Linux](https://img.shields.io/badge/OS-Linux-lightgrey) ![Real-Time Inference](https://img.shields.io/badge/Inference-Real--Time-success) ![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-2E8B57)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![EC2](https://img.shields.io/badge/AWS-EC2-orange) ![S3](https://img.shields.io/badge/AWS-S3-orange) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/VCS-Git-F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57) ![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey)
 
-### 🗄️ Databases & Data Tools
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey) ![NumPy](https://img.shields.io/badge/Library-NumPy-013243) ![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![EC2](https://img.shields.io/badge/AWS-EC2-orange) ![S3](https://img.shields.io/badge/AWS-S3-orange) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/VCS-Git-F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)
+
+### 🧪 Testing & Tools
+![pytest](https://img.shields.io/badge/Testing-pytest-0A9EDC) ![Playwright](https://img.shields.io/badge/Testing-Playwright-2EAD33) ![JUnit](https://img.shields.io/badge/Testing-JUnit-25A162) ![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18) ![Postman](https://img.shields.io/badge/API-Postman-FF6C37)
 
 </div>
 
