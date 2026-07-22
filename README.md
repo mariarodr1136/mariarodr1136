@@ -2,45 +2,15 @@
 
 # Hi, I'm Maria Rodriguez! 👋
 
-Welcome to my GitHub! 
+Welcome to my GitHub!
 
 Miami-Based Developer | Computer Science & Cybersecurity
 
-</div>
+![Java](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![JavaScript](https://img.shields.io/badge/-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/-TypeScript-green) ![SQL](https://img.shields.io/badge/-SQL-orange) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/-Swift-pink) ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000) ![Angular](https://img.shields.io/badge/-Angular-DD0031) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen) ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F) ![Django](https://img.shields.io/badge/-Django-092E20) ![Flask](https://img.shields.io/badge/-Flask-000000) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00) ![OpenCV](https://img.shields.io/badge/-OpenCV-green) ![NumPy](https://img.shields.io/badge/-NumPy-013243) ![Pandas](https://img.shields.io/badge/-Pandas-150458) ![PyQt5](https://img.shields.io/badge/-PyQt5-brightgreen) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A) ![Edge AI](https://img.shields.io/badge/-Edge%20AI-purple) ![Linux](https://img.shields.io/badge/-Linux-lightgrey) ![Real-Time Inference](https://img.shields.io/badge/-Real--Time%20Inference-success) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2E8B57) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) ![SQLite](https://img.shields.io/badge/-SQLite-003B57) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748) ![JSON](https://img.shields.io/badge/-JSON-lightgrey) ![AWS](https://img.shields.io/badge/-AWS-FF9900) ![Lambda](https://img.shields.io/badge/-Lambda-orange) ![EC2](https://img.shields.io/badge/-EC2-orange) ![S3](https://img.shields.io/badge/-S3-orange) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032) ![GitHub](https://img.shields.io/badge/-GitHub-181717) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33) ![JUnit](https://img.shields.io/badge/-JUnit-25A162) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18) ![Postman](https://img.shields.io/badge/-Postman-FF6C37)
 
-<div style="margin-top: 0;">
-    <div align="center">
-        <a href="https://mariarod.dev/" target="_blank">Visit My Portfolio</a>
-        <br><br>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtyMm45bzljYTJvZzNvMDhpMDM5bWZwbnQ2OXBkOHl4ZjB0M3p6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXYiiLHl2qf9PhAqGp/giphy.webp" width="250" alt="Welcome GIF">
-        <br>
-    </div>
-</div>
-
----
-
-<div align="center">
-
-### 🧠 Languages
-![Java](https://img.shields.io/badge/Code-Java-blue) ![Python](https://img.shields.io/badge/Code-Python-yellow) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-green) ![SQL](https://img.shields.io/badge/Code-SQL-orange) ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/Code-Swift-pink)
-
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/Framework-React-61DAFB) ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000) ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933) ![Express](https://img.shields.io/badge/Framework-Express-lightgrey) ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen) ![Spring Security](https://img.shields.io/badge/Security-Spring%20Security-6DB33F) ![Django](https://img.shields.io/badge/Framework-Django-092E20) ![Flask](https://img.shields.io/badge/Framework-Flask-000000) ![SwiftUI](https://img.shields.io/badge/Framework-SwiftUI-blue)
-
-### 🤖 ML & Data
-![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-orange) ![TensorFlow Lite](https://img.shields.io/badge/ML-TensorFlow%20Lite-FF6F00) ![OpenCV](https://img.shields.io/badge/CV-OpenCV-green) ![NumPy](https://img.shields.io/badge/Math-NumPy-013243) ![Pandas](https://img.shields.io/badge/Data-Pandas-150458) ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-brightgreen)
-
-### ⚙️ Embedded, Edge & Systems
-![Raspberry Pi](https://img.shields.io/badge/Embedded-Raspberry%20Pi-C51A4A) ![Edge AI](https://img.shields.io/badge/AI-Edge%20AI-purple) ![Linux](https://img.shields.io/badge/OS-Linux-lightgrey) ![Real-Time Inference](https://img.shields.io/badge/Inference-Real--Time-success) ![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-2E8B57)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1) ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57) ![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![EC2](https://img.shields.io/badge/AWS-EC2-orange) ![S3](https://img.shields.io/badge/AWS-S3-orange) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/VCS-Git-F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)
-
-### 🧪 Testing & Tools
-![pytest](https://img.shields.io/badge/Testing-pytest-0A9EDC) ![Playwright](https://img.shields.io/badge/Testing-Playwright-2EAD33) ![JUnit](https://img.shields.io/badge/Testing-JUnit-25A162) ![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18) ![Postman](https://img.shields.io/badge/API-Postman-FF6C37)
+<p align="center" style="margin-top: 10px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtyMm45bzljYTJvZzNvMDhpMDM5bWZwbnQ2OXBkOHl4ZjB0M3p6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXYiiLHl2qf9PhAqGp/giphy.webp" width="250" alt="Welcome GIF">
+</p>
 
 </div>
 
@@ -48,12 +18,10 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 <div align="center">
 
-## 🛠️ Currently Developing
+## 🛠️ Currently Building — LeafMedic: Edge AI Plant Disease Detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-### 🌿 LeafMedic: Edge AI Plant Disease Detection System
-**Python | TensorFlow Lite | OpenCV | PyQt5 | Raspberry Pi**
-
-Developing an on-device plant disease detection system that deploys one quantized MobileNet across browser, desktop, and Raspberry Pi via ONNX Runtime Web and TensorFlow Lite. Achieves sub-150 ms embedded inference with cross-runtime parity verified by 146 CI tests.
+One quantized MobileNet model deployed across browser, desktop, and Raspberry Pi via ONNX Runtime Web + TFLite — sub-150ms inference on-device, 146 CI tests verifying cross-runtime parity.
 
 [View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
 
@@ -69,46 +37,39 @@ Developing an on-device plant disease detection system that deploys one quantize
 
 </div>
 
-### 📦 Nexus: Full-Stack Supply Chain Visualizer 
-**Java | Spring Boot | React | PostgreSQL | Docker**
+### 📦 Nexus: Full-Stack Supply Chain Visualizer  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-*   🚚 Designed 20+ REST endpoints across shipments, inventory, and analytics resources using Spring Boot and Spring Data JPA
-*   🔐 Secured all routes with Spring Security + JWT stateless authentication and configured CORS for cross-origin requests
-*   🐳 Dockerized backend with multi-stage builds and deployed via Render Blueprint IaC with Leaflet maps and Chart.js
+40+ REST endpoints across shipments, inventory, and analytics; JWT-secured with Spring Security; Dockerized and deployed via Render Blueprint IaC.
 
 [View Project →](https://github.com/mariarodr1136/SupplyChainVisualizer) | [Live Demo →](https://supply-chain-visualizer.onrender.com/)
 
 ---
 
 ### 🎙️ GenAI: Voice-Driven AI Mock Interview App
-**TypeScript | React | Node.js | Groq | Whisper | Qwen 3.6**
-*   🎤 Orchestrated voice-to-AI pipeline using Groq Whisper Large v3 for transcription and Qwen 3.6 27B for response generation
-*   🎧 Migrated the full stack to strict TypeScript, backed by a 41-test Vitest/Supertest suite for GitHub Actions CI
-*   🛠️ Built adaptive code-review and job-description-tailored prompting, personalizing question depth to role and submitted code
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white) ![Qwen 3.6](https://img.shields.io/badge/Qwen%203.6-635BFF?style=flat&logo=alibabacloud&logoColor=white)
+
+Voice-to-AI mock interview pipeline: real-time transcription, adaptive code review, and job-description-tailored question depth. Full TypeScript migration backed by a 41-test CI suite.
 
 [View Project →](https://github.com/mariarodr1136/GenAI-Technical-Interviewer) | [Live Demo →](https://genai-technical-interviewer-1.onrender.com/)
 
 ---
 
 ### 📊 JETSET: Franchise Intelligence Dashboard
-**TypeScript | Next.js | Prisma | Recharts | SQLite | Gemini API**
-* 🏢 Built a Next.js/TypeScript platform with SSE live alerts, Gemini streaming AI, and FTS5 search across 69 locations
-* 🗄️ Designed an 8-model Prisma schema with strict server/client boundary - all ORM queries server-side only
-* 📉 Engineered a sigmoid churn model (AUC 0.841) scoring 15K+ members with feature importance and an ROI calculator 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=chartdotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+Built independently for a multi-unit franchise operator running 69 locations. FTS5 search, SSE live alerts, Gemini-streamed insights, and a sigmoid churn model (AUC 0.841) scoring 15K+ members with ROI calculator.
 
 [View Project →](https://github.com/mariarodr1136/JETSET-Franchise-Intelligence) | [Live Demo →](https://jetset-franchise-intelligence.onrender.com/)
 
 ---
 
 ### 🌎 Atmosphere Analyzer: Real Time Monitoring Dashboard
-**Python | React | Django | Docker | WebSockets**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 
-*   ☁️ Streamed live weather and AQI data via Django Channels WebSockets with automatic HTTP polling failover
-*   🔌 Engineered a 4-layer data fallback across live APIs, EPA PM2.5-to-AQI conversion, and DB-persisted simulation
-*   📊 Implemented z-score anomaly detection per city with real-time forecast panels, heatmaps, and CSV/PDF export
+Real-time weather/AQI dashboard with a 4-layer data fallback (live APIs → EPA conversion → DB-persisted simulation), z-score anomaly detection, and CSV/PDF export.
 
 [View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
-
 
 ---
 
@@ -122,3 +83,8 @@ I'm always excited to collaborate on innovative projects or discuss new tech ide
 💻 **Portfolio**: [mariarod.dev](https://mariarod.dev/)  
 💼 **LinkedIn**: [linkedin.com/in/mariarodr/](https://www.linkedin.com/in/mariarodr/)  
 🐱 **GitHub**: [@mariarodr1136](https://github.com/mariarodr1136)
+
+---
+
+
+![Java](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![JavaScript](https://img.shields.io/badge/-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/-TypeScript-green) ![SQL](https://img.shields.io/badge/-SQL-orange) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/-Swift-pink) ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000) ![Angular](https://img.shields.io/badge/-Angular-DD0031) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen) ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F) ![Django](https://img.shields.io/badge/-Django-092E20) ![Flask](https://img.shields.io/badge/-Flask-000000) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00) ![OpenCV](https://img.shields.io/badge/-OpenCV-green) ![NumPy](https://img.shields.io/badge/-NumPy-013243) ![Pandas](https://img.shields.io/badge/-Pandas-150458) ![PyQt5](https://img.shields.io/badge/-PyQt5-brightgreen) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A) ![Edge AI](https://img.shields.io/badge/-Edge%20AI-purple) ![Linux](https://img.shields.io/badge/-Linux-lightgrey) ![Real-Time Inference](https://img.shields.io/badge/-Real--Time%20Inference-success) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2E8B57) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) ![SQLite](https://img.shields.io/badge/-SQLite-003B57) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748) ![JSON](https://img.shields.io/badge/-JSON-lightgrey) ![AWS](https://img.shields.io/badge/-AWS-FF9900) ![Lambda](https://img.shields.io/badge/-Lambda-orange) ![EC2](https://img.shields.io/badge/-EC2-orange) ![S3](https://img.shields.io/badge/-S3-orange) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032) ![GitHub](https://img.shields.io/badge/-GitHub-181717) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33) ![JUnit](https://img.shields.io/badge/-JUnit-25A162) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18) ![Postman](https://img.shields.io/badge/-Postman-FF6C37)
