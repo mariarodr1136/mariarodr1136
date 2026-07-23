@@ -22,14 +22,12 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 <div align="center">
 
-## 🛠️ Currently Building — LeafMedic: Edge AI Plant Disease Detection
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+## 🛠️ Currently Building — Clay: AI-Native Project Tracker
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-One quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry Pi via ONNX Runtime Web + TFLite — 14ms WebGPU inference on-device, predictive-entropy and vegetation guards to reject ambiguous images, and 146 tests (pytest + Playwright) across a three-job CI pipeline with lint, type-check, and E2E.
+An AI agent that lets users describe a dashboard view in plain English and builds it live against real org data — through an allow-listed query catalog, never generating arbitrary SQL — with hardened invariants blocking cross-org writes and scope-escalation attempts, on a Next.js 16 + tRPC + Drizzle/Postgres stack with Clerk multi-tenant auth.
 
-[View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
-
-<img width="600" alt="preview" src="https://github.com/user-attachments/assets/66cffe77-76b2-49ae-be9c-0d41acd4e0e1" />
+[View Project →](https://github.com/mariarodr1136/Clay)
 
 </div>
 
@@ -41,7 +39,7 @@ One quantized 11MB MobileNet model deployed across browser, desktop, and Raspber
 
 </div>
 
-### 📦 Nexus: Full-Stack Supply Chain Visualizer  
+### 🚚 Nexus: Full-Stack Supply Chain Visualizer  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 40+ REST endpoints across shipments, inventory, and analytics; JWT-secured with Spring Security, CORS, centralized error handling, and request validation; 90+ unit, API, and PostgreSQL integration tests automated in GitHub Actions CI; Dockerized and deployed via Render Blueprint IaC.
@@ -68,12 +66,12 @@ Built independently for a multi-unit franchise operator running 69 locations. 8-
 
 ---
 
-### 🌎 Atmosphere Analyzer: Real Time Monitoring Dashboard
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+### 🍃 LeafMedic: Edge AI Plant Disease Detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-Real-time weather/AQI dashboard with a 4-layer data fallback (live APIs → EPA conversion → DB-persisted simulation), z-score anomaly detection, and CSV/PDF export.
+Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry Pi via ONNX Runtime Web + TFLite, with 14ms on-device WebGPU inference and predictive-entropy guards to reject ambiguous images. 146 tests across a three-job CI pipeline with lint, type-check, and E2E.
 
-[View Project →](https://github.com/mariarodr1136/AtmosphereAnalyzer) | [Live Demo →](https://atmosphere-analyzer-dashboard.onrender.com/)
+[View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
 
 ---
 
@@ -87,3 +85,4 @@ I'm always excited to collaborate on innovative projects or discuss new tech ide
 💻 **Portfolio**: [mariarod.dev](https://mariarod.dev/)  
 💼 **LinkedIn**: [linkedin.com/in/mariarodr/](https://www.linkedin.com/in/mariarodr/)  
 🐱 **GitHub**: [@mariarodr1136](https://github.com/mariarodr1136)
+</div>
