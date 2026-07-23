@@ -29,6 +29,8 @@ An AI agent that lets users describe a dashboard view in plain English and build
 
 [View Project →](https://github.com/mariarodr1136/Clay)
 
+<img width="600" alt="preview" src="https://github.com/user-attachments/assets/1136c2d3-5572-4f87-83e0-b8d198fb7739" />
+
 </div>
 
 ---
