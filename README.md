@@ -48,12 +48,12 @@ An AI agent that lets users describe a dashboard view in plain English and build
 
 ---
 
-### 🎙️ GenAI: Voice-Driven AI Mock Interview App
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white) ![Qwen 3.6](https://img.shields.io/badge/Qwen%203.6-635BFF?style=flat&logo=alibabacloud&logoColor=white)
+### 🍃 LeafMedic: Edge AI Plant Disease Detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-Voice-to-AI mock interview pipeline using Groq Whisper Large v3 for transcription and Qwen 3.6 27B for response generation, with adaptive code review and job-description-tailored question depth. Full TypeScript migration backed by a 41-test Vitest/Supertest CI suite.
+Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry Pi via ONNX Runtime Web + TFLite, with 14ms on-device WebGPU inference and predictive-entropy guards to reject ambiguous images. 146 tests across a three-job CI pipeline with lint, type-check, and E2E.
 
-[View Project →](https://github.com/mariarodr1136/GenAI-Technical-Interviewer) | [Live Demo →](https://genai-technical-interviewer-1.onrender.com/)
+[View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
 
 ---
 
@@ -66,12 +66,12 @@ Built independently for a multi-unit franchise operator running 69 locations. 8-
 
 ---
 
-### 🍃 LeafMedic: Edge AI Plant Disease Detection
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+### 🎙️ GenAI: Voice-Driven AI Mock Interview App
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white) ![Qwen 3.6](https://img.shields.io/badge/Qwen%203.6-635BFF?style=flat&logo=alibabacloud&logoColor=white)
 
-Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry Pi via ONNX Runtime Web + TFLite, with 14ms on-device WebGPU inference and predictive-entropy guards to reject ambiguous images. 146 tests across a three-job CI pipeline with lint, type-check, and E2E.
+Voice-to-AI mock interview pipeline using Groq Whisper Large v3 for transcription and Qwen 3.6 27B for response generation, with adaptive code review and job-description-tailored question depth. Full TypeScript migration backed by a 41-test Vitest/Supertest CI suite.
 
-[View Project →](https://github.com/mariarodr1136/LeafMedic) | [Live Demo →](https://mariarodr1136.github.io/LeafMedic/)
+[View Project →](https://github.com/mariarodr1136/GenAI-Technical-Interviewer) | [Live Demo →](https://genai-technical-interviewer-1.onrender.com/)
 
 ---
 
