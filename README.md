@@ -27,7 +27,7 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 An AI agent that lets users describe a dashboard view in plain English and builds it live against real org data — through an allow-listed query catalog, never generating arbitrary SQL — with hardened invariants blocking cross-org writes and scope-escalation attempts, on a Next.js 16 + tRPC + Drizzle/Postgres stack with Clerk multi-tenant auth.
 
-[View Project →](https://github.com/mariarodr1136/Clay)
+[View Project →](https://github.com/mariarodr1136/GenAI-Technical-Interviewer) | [Live Demo →](https://clay-gray.vercel.app)
 
 <img width="600" alt="preview" src="https://github.com/user-attachments/assets/1136c2d3-5572-4f87-83e0-b8d198fb7739" />
 
