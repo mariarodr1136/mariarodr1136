@@ -25,7 +25,7 @@ Miami-Based Developer | Computer Science & Cybersecurity
 ## 🛠️ Currently Building — Clay: AI-Native Project Tracker
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-An AI agent that lets users describe a dashboard view in plain English and builds it live against real org data — through an allow-listed query catalog, never generating arbitrary SQL — with hardened invariants blocking cross-org writes and scope-escalation attempts, on a Next.js 16 + tRPC + Drizzle/Postgres stack with Clerk multi-tenant auth.
+Currently developing Clay, a project tracker where you don't dig through settings to get the chart you want — you just ask. Type "show me which projects are behind and who's overloaded," and a few seconds later that dashboard exists, filled in with your team's real work. Ask for a change — "make that chart bigger," "only show this quarter" — and it updates. Every version is saved, so you can always go back. And the assistant can only look at your data, never change it — so there's no risk in letting it try.
 
 [View Project →](https://github.com/mariarodr1136/Clay) | [Live Demo →](https://clay-gray.vercel.app)
 
