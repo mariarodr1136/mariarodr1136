@@ -64,7 +64,7 @@ Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry P
 
 Built independently for a multi-unit franchise operator running 69 locations. 8-model Prisma schema with strict server/client boundary, FTS5 search, SSE live alerts, Gemini-streamed insights, and a sigmoid churn model (AUC 0.841) scoring 15K+ members with ROI calculator.
 
-[View Project →](https://github.com/mariarodr1136/Meridian-Franchise-Retention) 
+[View Project →](https://github.com/mariarodr1136/Meridian-Franchise-Retention) | [Live Demo →](https://meridian-retention-intelligence.vercel.app/)
 
 ---
 
