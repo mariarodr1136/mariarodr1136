@@ -59,12 +59,12 @@ Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry P
 
 ---
 
-### 📊 JETSET: Franchise Intelligence Dashboard
+### 📊 Meridian: Franchise Retention Intelligence
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=chartdotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 Built independently for a multi-unit franchise operator running 69 locations. 8-model Prisma schema with strict server/client boundary, FTS5 search, SSE live alerts, Gemini-streamed insights, and a sigmoid churn model (AUC 0.841) scoring 15K+ members with ROI calculator.
 
-[View Project →](https://github.com/mariarodr1136/JETSET-Franchise-Intelligence) | [Live Demo →](https://jetset-franchise-intelligence.onrender.com/)
+[View Project →](https://github.com/mariarodr1136/Meridian-Franchise-Retention) 
 
 ---
 
