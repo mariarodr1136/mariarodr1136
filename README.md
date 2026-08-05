@@ -22,7 +22,7 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 <div align="center">
 
-## 🛠️ Currently Building — Clay: AI-Native Project Tracker
+## 🛠️ Currently Building — Clay: Prompt-Built Dashboards
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 Currently developing Clay, a project tracker where you don't dig through settings to get the chart you want — you just ask. Type "show me which projects are behind and who's overloaded," and a few seconds later that dashboard exists, filled in with your team's real work. Ask for a change — "make that chart bigger," "only show this quarter" — and it updates. Every version is saved, so you can always go back. And the assistant can only look at your data, never change it — so there's no risk in letting it try.
@@ -41,7 +41,7 @@ Currently developing Clay, a project tracker where you don't dig through setting
 
 </div>
 
-### 🚚 Nexus: Full-Stack Supply Chain Visualizer  
+### 🚚 Nexus: Shipment & Inventory Tracking Platform
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 40+ REST endpoints across shipments, inventory, and analytics; JWT-secured with Spring Security, CORS, centralized error handling, and request validation; 90+ unit, API, and PostgreSQL integration tests automated in GitHub Actions CI; Dockerized and deployed via Render Blueprint IaC.
@@ -50,7 +50,7 @@ Currently developing Clay, a project tracker where you don't dig through setting
 
 ---
 
-### 🍃 LeafMedic: Edge AI Plant Disease Detection
+### 🍃 LeafMedic: Edge AI Plant Diagnosis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry Pi via ONNX Runtime Web + TFLite, with 14ms on-device WebGPU inference and predictive-entropy guards to reject ambiguous images. 146 tests across a three-job CI pipeline with lint, type-check, and E2E.
@@ -59,7 +59,7 @@ Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry P
 
 ---
 
-### 📊 Meridian: Franchise Retention Intelligence
+### 📊 Meridian: Member Churn Prediction Platform
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=chartdotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 Built independently for a multi-unit franchise operator running 69 locations. 8-model Prisma schema with strict server/client boundary, FTS5 search, SSE live alerts, Gemini-streamed insights, and a sigmoid churn model (AUC 0.841) scoring 15K+ members with ROI calculator.
