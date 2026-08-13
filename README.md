@@ -50,7 +50,7 @@ Currently developing Clay, a project tracker where you don't dig through setting
 
 ---
 
-### 🍃 LeafMedic: Edge AI Plant Diagnosis
+### 🍃 LeafMedic: Edge AI Plant Disease Detection System
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry Pi via ONNX Runtime Web + TFLite, with 14ms on-device WebGPU inference and predictive-entropy guards to reject ambiguous images. 146 tests across a three-job CI pipeline with lint, type-check, and E2E.
