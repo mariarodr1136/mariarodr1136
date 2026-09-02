@@ -69,7 +69,7 @@ Built independently for a multi-unit franchise operator running 69 locations. 8-
 ---
 
 ### 🎙️ GenAI: Voice-Driven AI Mock Interview App
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white) ![Qwen 3.6](https://img.shields.io/badge/Qwen%203.6-635BFF?style=flat&logo=alibabacloud&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white) ![Qwen 3.8](https://img.shields.io/badge/Qwen%203.6-635BFF?style=flat&logo=alibabacloud&logoColor=white)
 
 Voice-to-AI mock interview pipeline using Groq Whisper Large v3 for transcription and Qwen 3.6 27B for response generation, with adaptive code review and job-description-tailored question depth. Full TypeScript migration backed by a 41-test Vitest/Supertest CI suite.
 
