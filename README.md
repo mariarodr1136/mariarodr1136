@@ -22,21 +22,6 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 <div align="center">
 
-## 🛠️ Currently Building — Clay: Prompt-Built Dashboards
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-
-Currently developing Clay, a project tracker where you don't dig through settings to get the chart you want — you just ask. Type "show me which projects are behind and who's overloaded," and a few seconds later that dashboard exists, filled in with your team's real work. Ask for a change — "make that chart bigger," "only show this quarter" — and it updates. Every version is saved, so you can always go back. And the assistant can only look at your data, never change it — so there's no risk in letting it try.
-
-[View Project →](https://github.com/mariarodr1136/Clay) | [Live Demo →](https://clay-gray.vercel.app)
-
-<img width="600" alt="preview" src="https://github.com/user-attachments/assets/1136c2d3-5572-4f87-83e0-b8d198fb7739" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 Featured Projects
 
 </div>
@@ -59,12 +44,12 @@ Quantized 11MB MobileNet model deployed across browser, desktop, and Raspberry P
 
 ---
 
-### 📊 JETSET: Franchise Retention Intelligence
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=chartdotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+### 🧱 Clay: Prompt-Built Dashboards
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-Built independently for a multi-unit franchise operator running 69 locations. 8-model Prisma schema with strict server/client boundary, FTS5 search, SSE live alerts, Gemini-streamed insights, and a sigmoid churn model (AUC 0.841) scoring 15K+ members with ROI calculator.
+A project tracker where you don't dig through settings to get the chart you want — you just ask, and a dashboard is built from your team's real work. Every version is saved and the assistant can only read your data, never change it.
 
-[Live Demo →](https://meridian-retention-intelligence.vercel.app/)
+[View Project →](https://github.com/mariarodr1136/Clay) | [Live Demo →](https://clay-gray.vercel.app)
 
 ---
 
