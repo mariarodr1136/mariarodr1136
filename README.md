@@ -6,9 +6,14 @@ Welcome to my GitHub!
 
 Miami-Based Developer | Computer Science & Cybersecurity
 
+
 ![Java](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![JavaScript](https://img.shields.io/badge/-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/-TypeScript-green) ![SQL](https://img.shields.io/badge/-SQL-orange) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/-Swift-pink) ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000) ![Angular](https://img.shields.io/badge/-Angular-DD0031) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Express](https://img.shields.io/badge/-Express-lightgrey)
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen) ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F) ![Django](https://img.shields.io/badge/-Django-092E20) ![Flask](https://img.shields.io/badge/-Flask-000000) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00) ![OpenCV](https://img.shields.io/badge/-OpenCV-green) ![NumPy](https://img.shields.io/badge/-NumPy-013243) ![Pandas](https://img.shields.io/badge/-Pandas-150458) ![PyQt5](https://img.shields.io/badge/-PyQt5-brightgreen) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A)
+
+<p align="center" style="margin-top: 10px;">
+<img width="500" height="230" alt="make_is_shorter_and_close_up 2" src="https://github.com/user-attachments/assets/f0c18536-cb58-403d-8525-d9cd5906b1ca" />
+</p>
 
 ![Edge AI](https://img.shields.io/badge/-Edge%20AI-purple) ![Linux](https://img.shields.io/badge/-Linux-lightgrey) ![Real-Time Inference](https://img.shields.io/badge/-Real--Time%20Inference-success) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2E8B57) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) ![SQLite](https://img.shields.io/badge/-SQLite-003B57) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748) ![JSON](https://img.shields.io/badge/-JSON-lightgrey) ![AWS](https://img.shields.io/badge/-AWS-FF9900) ![Lambda](https://img.shields.io/badge/-Lambda-orange)
 
