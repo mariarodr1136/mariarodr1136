@@ -20,7 +20,7 @@ Miami-Based Developer | Computer Science & Cybersecurity
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 </div>
 
