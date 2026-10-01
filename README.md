@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-Miami-Based Developer | Computer Science & Cybersecurity
+Forward Deployed Engineer | Computer Science & Cybersecurity
 
 
 ![Java](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![JavaScript](https://img.shields.io/badge/-JavaScript-purple) ![TypeScript](https://img.shields.io/badge/-TypeScript-green) ![SQL](https://img.shields.io/badge/-SQL-orange) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-red) ![Swift](https://img.shields.io/badge/-Swift-pink) ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000) ![Angular](https://img.shields.io/badge/-Angular-DD0031) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Express](https://img.shields.io/badge/-Express-lightgrey)
